@@ -251,41 +251,93 @@
         "background_gradient": ""
       }
     },
-    "multi_column_VYUbLR": {
+    "rich_text_nfbqUp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wFFydn": {
+          "type": "heading",
+          "settings": {
+            "text": "Nos clientes en parlent le mieux",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_wFFydn"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_zzcMGk": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!-- Bloc Trustpilot -->\n<div style=\"font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;\n            text-align:center;line-height:1.35;max-width:300px;margin:0 auto;color:#000;\">\n\n  <!-- Ligne principale -->\n  <div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px;\n              font-size:24px;font-weight:600;\">\n    <span>Excellent</span>\n    <span style=\"font-weight:700;\">4.7</span>\n    <span>/ 5</span>\n\n    <!-- 5 étoiles vertes -->\n    <span style=\"color:#00B67A;font-size:22px;letter-spacing:1px;\">★★★★★</span>\n  </div>\n\n  <!-- Ligne “Basé sur +2000 avis Trustpilot” -->\n  <div style=\"margin-top:4px;font-size:14px;color:#555;display:flex;\n              flex-wrap:wrap;justify-content:center;align-items:center;gap:4px;\">\n    <span>Basé sur <strong>+1067</strong> avis</span>\n    <span style=\"color:#00B67A;font-size:15px;\">★</span>\n    <span>Trustpilot</span>\n  </div>\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_k4Jqqj": {
       "type": "multi-column",
       "blocks": {
-        "item_9aqPEd": {
+        "item_bEUccb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_6b0f684c-daf8-4291-9bc5-685ade2426e4-vmake.jpg",
+            "image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_00_58_23.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Laura",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Honnêtement, j'y croyais pas trop au début. Mais après quelques semaines avec ce sérum, c'est vrai que la repousse a ralenti. Mes poils sont plus fins qu'avant et je gagne vraiment du temps. Au lieu de me raser 2 fois par semaine, maintenant c'est plutôt toutes les 10 jours.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_qHKq9Y": {
+        "item_6BWDrh": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_01_07_45.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Marie",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je souffre depuis des années de taches brunes et d'une peau rugueuse au niveau des aisselles. Rien n'avait fonctionné jusqu'à ce que j'essaie ce produit. Non seulement la pousse des poils a considérablement diminué, mais ma peau est complètement transformée : elle est lisse, uniforme, et je me sens enfin bien pour cet été !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_RXeFYg": {
+        "item_jjrQMK": {
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Agathe",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Après des années d'épilation douloureuse à la cire et de brûlures dues au rasoir, ce sérum a complètement changé ma vie. Les poils repoussent tellement plus lentement et sont tellement plus fins que je n'ai plus besoin de me raser qu'une fois toutes les 2 à 3 semaines ! Ma peau est plus lisse que jamais, sans ces boutons rouges !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XLFeQ8": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Sylvie",
+            "heading_tag": "h4",
+            "content": "<p>Je ne comprends toujours pas comment, mais ça a marché ! Les poils sur mon menton et ma lèvre supérieure repoussent à peine, et ceux qui repoussent sont très fins et clairs. Mes poils sont tellement plus fins maintenant que lorsque je me rase, cela ne laisse pas de barbe !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -293,22 +345,127 @@
         }
       },
       "block_order": [
-        "item_9aqPEd",
-        "item_qHKq9Y",
-        "item_RXeFYg"
+        "item_bEUccb",
+        "item_6BWDrh",
+        "item_jjrQMK",
+        "item_XLFeQ8"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "small",
+        "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Nos clientes en parlent le mieux",
+        "title": "",
         "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "featured_product_f3x3jh": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_7zFtQG": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_AVd3TF": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_xMMNym": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_EjGXkj": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_xJBpcA": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_fr4BAg": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_krpri7": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_eJPpkL": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_KBLwCV": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_gGeQE3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_kdifHN": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_7zFtQG",
+        "title_AVd3TF",
+        "badges_xMMNym",
+        "price_EjGXkj",
+        "rating_xJBpcA",
+        "separator_fr4BAg",
+        "description_krpri7",
+        "variant_picker_eJPpkL",
+        "quantity_selector_KBLwCV",
+        "buy_buttons_gGeQE3",
+        "pickup_availability_kdifHN"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "nom-erum-anti-repousse-naturel",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     }
   },
@@ -319,6 +476,9 @@
     "image_with_text_overlay_pYfapK",
     "rich_text_3WUieU",
     "slideshow_LjHaXb",
-    "multi_column_VYUbLR"
+    "rich_text_nfbqUp",
+    "custom_liquid_zzcMGk",
+    "multi_column_k4Jqqj",
+    "featured_product_f3x3jh"
   ]
 }
