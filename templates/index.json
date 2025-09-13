@@ -257,6 +257,7 @@
         "item_9aqPEd": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3_6b0f684c-daf8-4291-9bc5-685ade2426e4-vmake.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
