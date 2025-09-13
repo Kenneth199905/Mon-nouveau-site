@@ -14,16 +14,40 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_dXktje": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE DE RENTRÉE -50%",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "STOCK BIENTÔT ÉPUISÉ",
+            "url": ""
+          }
+        },
+        "message_YMqGdi": {
+          "type": "message",
+          "settings": {
+            "text": "SATISFAIT OU REMBOURSÉ",
+            "url": ""
+          }
+        },
+        "message_hXiqxh": {
+          "type": "message",
+          "settings": {
+            "text": "LIVRAISON OFFERTE",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message_dXktje",
+        "message",
+        "message_YMqGdi",
+        "message_hXiqxh"
       ],
       "settings": {
         "enable_sticky": false,
