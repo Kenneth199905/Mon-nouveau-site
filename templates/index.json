@@ -190,7 +190,7 @@
           "type": "heading",
           "settings": {
             "text": "Une huile botanique 100% naturelle qui réduit la pilosité en douceur",
-            "heading_tag": "h3",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -247,7 +247,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -371,6 +371,7 @@
       "blocks": {
         "vendor_7zFtQG": {
           "type": "vendor",
+          "disabled": true,
           "settings": {}
         },
         "title_AVd3TF": {
@@ -458,7 +459,7 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "free_scroll",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": true,
