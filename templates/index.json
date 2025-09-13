@@ -282,8 +282,8 @@
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
         "liquid": "<!-- Bloc Trustpilot -->\n<div style=\"font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;\n            text-align:center;line-height:1.35;max-width:300px;margin:0 auto;color:#000;\">\n\n  <!-- Ligne principale -->\n  <div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px;\n              font-size:24px;font-weight:600;\">\n    <span>Excellent</span>\n    <span style=\"font-weight:700;\">4.7</span>\n    <span>/ 5</span>\n\n    <!-- 5 étoiles vertes -->\n    <span style=\"color:#00B67A;font-size:22px;letter-spacing:1px;\">★★★★★</span>\n  </div>\n\n  <!-- Ligne “Basé sur +2000 avis Trustpilot” -->\n  <div style=\"margin-top:4px;font-size:14px;color:#555;display:flex;\n              flex-wrap:wrap;justify-content:center;align-items:center;gap:4px;\">\n    <span>Basé sur <strong>+1067</strong> avis</span>\n    <span style=\"color:#00B67A;font-size:15px;\">★</span>\n    <span>Trustpilot</span>\n  </div>\n\n</div>",
         "background": "",
         "background_gradient": "",
@@ -293,6 +293,19 @@
     "multi_column_k4Jqqj": {
       "type": "multi-column",
       "blocks": {
+        "item_XLFeQ8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_01_25_10.png",
+            "column_size": "3",
+            "title": "Sylvie",
+            "heading_tag": "h4",
+            "content": "<p>Depuis des années, je cherchais une solution pour mes poils au menton et sur la lèvre supérieure. Rien n’était efficace… jusqu’à ce soin ! Aujourd’hui, la repousse est quasiment inexistante et les quelques poils restants sont si fins qu’on ne les distingue même plus. Je me sens enfin libérée de ce complexe !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_bEUccb": {
           "type": "item",
           "settings": {
@@ -300,7 +313,20 @@
             "column_size": "3",
             "title": "Laura",
             "heading_tag": "h4",
-            "content": "<p>Honnêtement, j'y croyais pas trop au début. Mais après quelques semaines avec ce sérum, c'est vrai que la repousse a ralenti. Mes poils sont plus fins qu'avant et je gagne vraiment du temps. Au lieu de me raser 2 fois par semaine, maintenant c'est plutôt toutes les 10 jours.</p>",
+            "content": "<p>J’étais sceptique au départ… mais après quelques semaines, j’ai vu la différence ! La repousse est bien plus lente, mes poils sont plus fins et je gagne un temps fou. Avant, je me rasais deux fois par semaine, aujourd’hui une fois tous les 10 jours suffit !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jjrQMK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_01_22_49.png",
+            "column_size": "3",
+            "title": "Agathe",
+            "heading_tag": "h4",
+            "content": "<p>Après des années d'épilation douloureuse à la cire et de brûlures dues au rasoir, ce sérum a complètement changé ma vie. Les poils repoussent tellement plus lentement et sont tellement plus fins que je n'ai plus besoin de me raser qu'une fois toutes les 2 à 3 semaines ! Ma peau est plus lisse que jamais, sans ces boutons rouges !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -313,31 +339,7 @@
             "column_size": "3",
             "title": "Marie",
             "heading_tag": "h4",
-            "content": "<p>Je souffre depuis des années de taches brunes et d'une peau rugueuse au niveau des aisselles. Rien n'avait fonctionné jusqu'à ce que j'essaie ce produit. Non seulement la pousse des poils a considérablement diminué, mais ma peau est complètement transformée : elle est lisse, uniforme, et je me sens enfin bien pour cet été !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jjrQMK": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Agathe",
-            "heading_tag": "h4",
-            "content": "<p>Après des années d'épilation douloureuse à la cire et de brûlures dues au rasoir, ce sérum a complètement changé ma vie. Les poils repoussent tellement plus lentement et sont tellement plus fins que je n'ai plus besoin de me raser qu'une fois toutes les 2 à 3 semaines ! Ma peau est plus lisse que jamais, sans ces boutons rouges !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_XLFeQ8": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Sylvie",
-            "heading_tag": "h4",
-            "content": "<p>Je ne comprends toujours pas comment, mais ça a marché ! Les poils sur mon menton et ma lèvre supérieure repoussent à peine, et ceux qui repoussent sont très fins et clairs. Mes poils sont tellement plus fins maintenant que lorsque je me rase, cela ne laisse pas de barbe !</p>",
+            "content": "<p>Depuis des années, je me sentais mal à l’aise à cause de ces taches sombres et de la texture irrégulière sous mes aisselles. Rien n’y faisait… jusqu’à ce sérum ! Ce sérum est incroyable ! Mes aisselles sont lisses, éclaircies et la repousse est beaucoup plus lente.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -345,10 +347,10 @@
         }
       },
       "block_order": [
+        "item_XLFeQ8",
         "item_bEUccb",
-        "item_6BWDrh",
         "item_jjrQMK",
-        "item_XLFeQ8"
+        "item_6BWDrh"
       ],
       "name": "Multi-column",
       "settings": {
