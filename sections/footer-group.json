@@ -94,15 +94,15 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up to our newsletter",
+            "title": "Inscrivez-vous pour recevoir les dernières actualités et nos offres.",
             "content": ""
           }
         },
         "text_nFitJm": {
           "type": "text",
           "settings": {
-            "title": "About our store",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Nous contacter",
+            "content": "<p>Service client : cerealcup@opticsun.store</p><p><strong>Lundi au vendredi : </strong>9h à 12h - 14h à 19h</p>",
             "enable_follow_on_shop": true
           }
         },
