@@ -377,12 +377,6 @@
             "text": "<p>❌ Ralentit naturellement la repousse des poils<br/>✨ Poils plus fins et moins visibles au fil du temps<br/>💆‍♀️ Fonctionne sur toutes les parties du corps</p>"
           }
         },
-        "price_EjGXkj": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "liquid_tGJ6Lk": {
           "type": "liquid",
           "settings": {
@@ -454,7 +448,6 @@
         "badges_xMMNym",
         "liquid_LNTrLb",
         "text_PEhGwF",
-        "price_EjGXkj",
         "liquid_tGJ6Lk",
         "rating_xJBpcA",
         "separator_fr4BAg",
