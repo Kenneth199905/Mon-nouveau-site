@@ -495,8 +495,8 @@
         "tab_gCbR6H": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Comment l'utiliser ?",
+            "content": "<ol><li>Après le rasage, l’épilation ou l’utilisation d’un épilateur, appliquez 3 à 5 gouttes sur une peau propre et sèche.<br/></li><li>Massez jusqu’à absorption complète.<br/></li><li>Utilisez <strong>1 fois par jour</strong> (matin ou soir). Pour des résultats plus rapides, jusqu’à 2 fois/jour si votre peau le tolère.<br/></li><li>Restez régulière, même entre deux épilations.</li></ol><p>La majorité des utilisatrices constatent des résultats visibles en <strong>4 à 8 semaines</strong> avec une application quotidienne.</p>",
             "page": ""
           }
         },
