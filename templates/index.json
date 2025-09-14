@@ -571,6 +571,7 @@
         "item_kAfKYF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/cyperus_rotundus.jpg",
             "column_size": "3",
             "title": "Cyperus Rotundus",
             "heading_tag": "h4",
@@ -583,7 +584,7 @@
         "item_UPwbbD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_4164.webp",
+            "image": "shopify://shop_images/l-huile-essentielle-de-menthe-poivree-guide-complet-des-bienfaits-et-applications-therapeutiques_1a55ec8574c0bafd.jpg",
             "column_size": "3",
             "title": "Menthe poivrée",
             "heading_tag": "h4",
@@ -630,8 +631,8 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
+        "gap": "small",
+        "text_alignment": "center",
         "subheading": "",
         "title": "",
         "content": "",
