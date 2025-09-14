@@ -832,6 +832,13 @@
             "title": "Puis-je le retourner si je ne suis pas satisfaite ?",
             "content": "<p>Bien sûr. Vous bénéficiez de notre <strong>garantie 90 jours satisfait ou remboursé</strong>.<br/><br/>Si vous n’êtes pas convaincue sous 90 jours, nous vous remboursons intégralement — bouteilles ouvertes acceptées (un remboursement par cliente).</p>"
           }
+        },
+        "item_yrfFGX": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps pour recevoir ma commande ?",
+            "content": "<p>Nous traitons les commandes en <strong>1 à 2 jours ouvrés</strong>.<br/><br/>Une fois expédiée, la livraison prend généralement<strong> 5 à  10 jours ouvrés </strong>selon votre localisation.<br/><br/>Un numéro de suivi vous sera envoyé par e-mail.</p>"
+          }
         }
       },
       "block_order": [
@@ -842,7 +849,8 @@
         "item_jmK9Ei",
         "item_3QKqTy",
         "item_8B6Dak",
-        "item_NmzrTT"
+        "item_NmzrTT",
+        "item_yrfFGX"
       ],
       "name": "FAQ",
       "settings": {
