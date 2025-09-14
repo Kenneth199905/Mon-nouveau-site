@@ -528,13 +528,13 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#c295fa",
         "heading_color": "",
         "heading_gradient": ""
       }
