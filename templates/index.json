@@ -65,7 +65,7 @@
         "logo_D3tpLy": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
+            "logo": "shopify://shop_images/TS-small_300x300_4512602a-caef-4d00-8c16-21101970c624.png",
             "logo_width": 120,
             "link": ""
           }
@@ -347,132 +347,6 @@
         "text_color": ""
       }
     },
-    "featured_product_f3x3jh": {
-      "type": "featured-product",
-      "blocks": {
-        "vendor_7zFtQG": {
-          "type": "vendor",
-          "disabled": true,
-          "settings": {}
-        },
-        "title_AVd3TF": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges_xMMNym": {
-          "type": "badges",
-          "settings": {}
-        },
-        "liquid_LNTrLb": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id=\"custom-container-rating\" class=\"custom-container-rating\">\n  <div class=\"custom-stars\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n  </div>\n  <div class=\"custom-rating-text\">\n    <span>Noté 4,7 par + 1067 Clientes !</span>\n  </div>\n</div>\n\n<style>\n  #custom-container-rating {\n    display: flex;\n    flex-direction: row;\n    align-items: center;\n    gap: 8px;\n    width: auto;\n  }\n\n  .custom-stars {\n    display: flex;\n    gap: 4px;\n  }\n\n  .custom-star-icon {\n    width: 18px;\n    height: 18px;\n    fill: #000;\n  }\n\n  .custom-rating-text {\n    font-size: 16px;\n    font-weight: 500;\n    color: #222;\n  }\n</style>"
-          }
-        },
-        "liquid_tGJ6Lk": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 4 huiles en stock ! </div>\n</div>"
-          }
-        },
-        "text_PEhGwF": {
-          "type": "text",
-          "settings": {
-            "text": "<p>❌ Ralentit naturellement la repousse des poils<br/>✨ Poils plus fins et moins visibles au fil du temps<br/>💆‍♀️ Fonctionne sur toutes les parties du corps</p>"
-          }
-        },
-        "price_EjGXkj": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_xJBpcA": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_fr4BAg": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_krpri7": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
-        "variant_picker_eJPpkL": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_KBLwCV": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_gGeQE3": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_kdifHN": {
-          "type": "pickup_availability",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "vendor_7zFtQG",
-        "title_AVd3TF",
-        "badges_xMMNym",
-        "liquid_LNTrLb",
-        "liquid_tGJ6Lk",
-        "text_PEhGwF",
-        "price_EjGXkj",
-        "rating_xJBpcA",
-        "separator_fr4BAg",
-        "description_krpri7",
-        "variant_picker_eJPpkL",
-        "quantity_selector_KBLwCV",
-        "buy_buttons_gGeQE3",
-        "pickup_availability_kdifHN"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "nom-erum-anti-repousse-naturel",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "free_scroll",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
     "tabs_mfpxXp": {
       "type": "tabs",
       "blocks": {
@@ -563,6 +437,139 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "featured_product_f3x3jh": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_7zFtQG": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "title_AVd3TF": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_xMMNym": {
+          "type": "badges",
+          "settings": {}
+        },
+        "liquid_LNTrLb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"custom-container-rating\" class=\"custom-container-rating\">\n  <div class=\"custom-stars\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n  </div>\n  <div class=\"custom-rating-text\">\n    <span>Noté 4,7 par + 1067 Clientes !</span>\n  </div>\n</div>\n\n<style>\n  #custom-container-rating {\n    display: flex;\n    flex-direction: row;\n    align-items: center;\n    gap: 8px;\n    width: auto;\n  }\n\n  .custom-stars {\n    display: flex;\n    gap: 4px;\n  }\n\n  .custom-star-icon {\n    width: 18px;\n    height: 18px;\n    fill: #000;\n  }\n\n  .custom-rating-text {\n    font-size: 16px;\n    font-weight: 500;\n    color: #222;\n  }\n</style>"
+          }
+        },
+        "liquid_tGJ6Lk": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 4 huiles en stock ! </div>\n</div>"
+          }
+        },
+        "text_PEhGwF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>❌ Ralentit naturellement la repousse des poils<br/>✨ Poils plus fins et moins visibles au fil du temps<br/>💆‍♀️ Fonctionne sur toutes les parties du corps</p>"
+          }
+        },
+        "price_EjGXkj": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_xJBpcA": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_fr4BAg": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_krpri7": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_eJPpkL": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_KBLwCV": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "kaching_bundles_app_block_hD3Pyc": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "buy_buttons_gGeQE3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_kdifHN": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_7zFtQG",
+        "title_AVd3TF",
+        "badges_xMMNym",
+        "liquid_LNTrLb",
+        "liquid_tGJ6Lk",
+        "text_PEhGwF",
+        "price_EjGXkj",
+        "rating_xJBpcA",
+        "separator_fr4BAg",
+        "description_krpri7",
+        "variant_picker_eJPpkL",
+        "quantity_selector_KBLwCV",
+        "kaching_bundles_app_block_hD3Pyc",
+        "buy_buttons_gGeQE3",
+        "pickup_availability_kdifHN"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "nom-erum-anti-repousse-naturel",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     },
     "multi_column_9NAH3F": {
@@ -729,9 +736,9 @@
     "rich_text_nfbqUp",
     "custom_liquid_zzcMGk",
     "multi_column_k4Jqqj",
-    "featured_product_f3x3jh",
     "tabs_mfpxXp",
     "rich_text_zxcHtW",
+    "featured_product_f3x3jh",
     "multi_column_9NAH3F",
     "rich_text_q4qMPN",
     "rich_text_ihXQhg",
