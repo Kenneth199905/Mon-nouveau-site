@@ -564,6 +564,78 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "multi_column_9NAH3F": {
+      "type": "multi-column",
+      "blocks": {
+        "item_kAfKYF": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Nous avons optimisé la concentration de notre ingrédient phare pour une réduction encore plus efficace de la croissance des poils tout en maintenant une compatibilité douce avec la peau.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UPwbbD": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Procure une sensation de fraîcheur qui apaise la peau après l'épilation tout en réduisant les rougeurs et l'inconfort. Cela rend l'application plus agréable et aide à calmer la peau fraîchement traitée.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DDmatA": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Cet agent éclaircissant aide à estomper les taches sombres et l'hyperpigmentation souvent associées à l'épilation répétée, donnant à votre peau un aspect plus uniforme et plus radieux au fil du temps.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_bJ8yBV": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Profondément hydratante et riche en acides gras, cette huile de qualité supérieure améliore l'absorption de la formule tout en nourrissant la peau pour en améliorer l'élasticité et la douceur.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_kAfKYF",
+        "item_UPwbbD",
+        "item_DDmatA",
+        "item_bJ8yBV"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -578,6 +650,7 @@
     "multi_column_k4Jqqj",
     "featured_product_f3x3jh",
     "tabs_mfpxXp",
-    "rich_text_zxcHtW"
+    "rich_text_zxcHtW",
+    "multi_column_9NAH3F"
   ]
 }
