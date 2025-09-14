@@ -583,8 +583,9 @@
         "item_UPwbbD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_4164.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Menthe poivrée",
             "heading_tag": "h4",
             "content": "<p>Procure une sensation de fraîcheur qui apaise la peau après l'épilation tout en réduisant les rougeurs et l'inconfort. Cela rend l'application plus agréable et aide à calmer la peau fraîchement traitée.</p>",
             "link_url": "",
@@ -595,8 +596,9 @@
         "item_DDmatA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/26059822.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Citron",
             "heading_tag": "h4",
             "content": "<p>Cet agent éclaircissant aide à estomper les taches sombres et l'hyperpigmentation souvent associées à l'épilation répétée, donnant à votre peau un aspect plus uniforme et plus radieux au fil du temps.</p>",
             "link_url": "",
@@ -607,8 +609,9 @@
         "item_bJ8yBV": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/OLIVE.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Huile D'Olive",
             "heading_tag": "h4",
             "content": "<p>Profondément hydratante et riche en acides gras, cette huile de qualité supérieure améliore l'absorption de la formule tout en nourrissant la peau pour en améliorer l'élasticité et la douceur.</p>",
             "link_url": "",
