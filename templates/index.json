@@ -883,7 +883,7 @@
         "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
         "title": "Une question ?",
         "content": "",
-        "text_position": "start",
+        "text_position": "center",
         "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
@@ -891,9 +891,9 @@
         "heading_color": "",
         "heading_gradient": "",
         "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "contact_text_color": "#000000",
+        "button_background": "#c295fa",
+        "button_text_color": "#000000"
       }
     }
   },
