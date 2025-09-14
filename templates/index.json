@@ -640,6 +640,32 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "rich_text_q4qMPN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_48C9Yi": {
+          "type": "heading",
+          "settings": {
+            "text": "Une solution naturelle, respectueuse de la peau, pour retarder la repousse des poils",
+            "heading_tag": "h5",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_48C9Yi"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -655,6 +681,7 @@
     "featured_product_f3x3jh",
     "tabs_mfpxXp",
     "rich_text_zxcHtW",
-    "multi_column_9NAH3F"
+    "multi_column_9NAH3F",
+    "rich_text_q4qMPN"
   ]
 }
