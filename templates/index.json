@@ -380,7 +380,7 @@
         "text_PEhGwF": {
           "type": "text",
           "settings": {
-            "text": "<p>❌ Réduit naturellement la pousse des poils<br/>✨ Poils plus fins et moins visibles au fil du temps<br/>💆‍♀️ Fonctionne sur toutes les parties du corps</p>"
+            "text": "<p>❌ Ralentit naturellement la repousse des poils<br/>✨ Poils plus fins et moins visibles au fil du temps<br/>💆‍♀️ Fonctionne sur toutes les parties du corps</p>"
           }
         },
         "price_EjGXkj": {
@@ -649,7 +649,7 @@
           "settings": {
             "text": "Une solution naturelle, respectueuse de la peau, pour retarder la repousse des poils",
             "heading_tag": "h5",
-            "text_color": "",
+            "text_color": "#c295fa",
             "gradient": ""
           }
         }
