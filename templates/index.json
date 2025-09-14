@@ -239,8 +239,8 @@
           "type": "heading",
           "settings": {
             "text": "Nos clientes en parlent le mieux",
-            "heading_tag": "h3",
-            "text_color": "",
+            "heading_tag": "h4",
+            "text_color": "#c295fa",
             "gradient": ""
           }
         }
