@@ -740,6 +740,39 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "rich_text_qfMphw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6awXfh": {
+          "type": "heading",
+          "settings": {
+            "text": "Libérez-vous de l'épilation quotidienne",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_E8HbLw": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>L'huile <strong>ISORIA</strong> combine des extraits botaniques ciblés pour ralentir naturellement la repousse des poils.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6awXfh",
+        "richtext_E8HbLw"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -755,6 +788,7 @@
     "tabs_mfpxXp",
     "rich_text_zxcHtW",
     "featured_product_f3x3jh",
+    "rich_text_qfMphw",
     "multi_column_9NAH3F",
     "rich_text_q4qMPN",
     "rich_text_ihXQhg",
