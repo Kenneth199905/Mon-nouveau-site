@@ -487,8 +487,8 @@
         "tab_qtiCwz": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Comment agis le sérum ?",
+            "content": "<p>Dès la première utilisation, la formule agit sur 3 fronts :</p><p><strong>1. Repousse</strong><br/>Le Cyperus Rotundus aide à ralentir la repousse entre deux séances.<br/>Avec une utilisation régulière, les poils paraissent plus fins et moins visibles.</p><p><strong>2. Confort</strong><br/>L’extrait de menthe poivrée procure une sensation de fraîcheur et aide à calmer la peau après l’épilation.</p><p><strong>3. Apparence de la peau</strong><br/>L’extrait de citron illumine le teint.<br/>La vitamine E et l’huile d’olive nourrissent et renforcent la barrière cutanée, réduisant irritations et effet “peau de fraise” après l’épilation.</p>",
             "page": ""
           }
         },
