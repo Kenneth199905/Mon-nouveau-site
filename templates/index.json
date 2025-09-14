@@ -675,7 +675,7 @@
           "settings": {
             "image": "shopify://shop_images/GLORESIA_-_hair_serum_-_product_page_image_19.png",
             "navigation_label": "1953",
-            "subheading": "L’expertise dermatologique derrière Isoria",
+            "subheading": "",
             "title": "",
             "content": "<p>En tant que dermatologue depuis plus de 20 ans, j’ai vu des centaines de femmes souffrir d’épilation répétée, de rougeurs et de poils incarnés. Mon objectif était clair : développer une solution naturelle, respectueuse des peaux sensibles, qui ralentit réellement la repousse. C’est ainsi qu’est né Isoria, à base de Cyperus Rotundus, inspiré des rituels égyptiens et validé par mes patientes.</p>"
           }
@@ -687,6 +687,32 @@
       "name": "Timeline",
       "settings": {
         "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_ihXQhg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xpJEQL": {
+          "type": "heading",
+          "settings": {
+            "text": "L’expertise dermatologique derrière Isoria",
+            "heading_tag": "h5",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_xpJEQL"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -708,6 +734,7 @@
     "rich_text_zxcHtW",
     "multi_column_9NAH3F",
     "rich_text_q4qMPN",
+    "rich_text_ihXQhg",
     "timeline_UCkmxK"
   ]
 }
