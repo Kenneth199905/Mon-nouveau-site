@@ -808,29 +808,29 @@
         "item_jmK9Ei": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Est-ce que ça élimine les poils définitivement ?",
+            "content": "<p>Non. C’est un sérum cosmétique qui aide à <strong>ralentir la repousse </strong>pour que les poils paraissent plus fins et plus clairsemés avec le temps.</p>"
           }
         },
         "item_3QKqTy": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Puis-je l’utiliser avec le rasage ou la cire ?",
+            "content": "<p>Oui. Appliquez après votre méthode habituelle, puis continuez l’application quotidienne.</p>"
           }
         },
         "item_8B6Dak": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Y a-t-il des effets secondaires ?",
+            "content": "<p>La formule est douce, sans parfum ajouté, et à faible risque d’irritation.<br/><br/>⚠️ Faites un test cutané préalable. Utilisez uniquement sur peau propre et intacte.<br/>En cas de rougeurs ou d’irritations, arrêtez l’utilisation.</p>"
           }
         },
         "item_NmzrTT": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Puis-je le retourner si je ne suis pas satisfaite ?",
+            "content": "<p>Bien sûr. Vous bénéficiez de notre <strong>garantie 60 jours satisfait ou remboursé</strong>.<br/><br/>Si vous n’êtes pas convaincue sous 60 jours, nous vous remboursons intégralement — bouteilles ouvertes acceptées (un remboursement par cliente).</p>"
           }
         }
       },
