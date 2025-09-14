@@ -463,12 +463,6 @@
             "liquid": "<div id=\"custom-container-rating\" class=\"custom-container-rating\">\n  <div class=\"custom-stars\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n  </div>\n  <div class=\"custom-rating-text\">\n    <span>Noté 4,7 par + 1067 Clientes !</span>\n  </div>\n</div>\n\n<style>\n  #custom-container-rating {\n    display: flex;\n    flex-direction: row;\n    align-items: center;\n    gap: 8px;\n    width: auto;\n  }\n\n  .custom-stars {\n    display: flex;\n    gap: 4px;\n  }\n\n  .custom-star-icon {\n    width: 18px;\n    height: 18px;\n    fill: #000;\n  }\n\n  .custom-rating-text {\n    font-size: 16px;\n    font-weight: 500;\n    color: #222;\n  }\n</style>"
           }
         },
-        "liquid_tGJ6Lk": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 4 huiles en stock ! </div>\n</div>"
-          }
-        },
         "text_PEhGwF": {
           "type": "text",
           "settings": {
@@ -479,6 +473,12 @@
           "type": "price",
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "liquid_tGJ6Lk": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 4 huiles en stock ! </div>\n</div>"
           }
         },
         "rating_xJBpcA": {
@@ -525,7 +525,7 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#00a341",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -541,9 +541,9 @@
         "title_AVd3TF",
         "badges_xMMNym",
         "liquid_LNTrLb",
-        "liquid_tGJ6Lk",
         "text_PEhGwF",
         "price_EjGXkj",
+        "liquid_tGJ6Lk",
         "rating_xJBpcA",
         "separator_fr4BAg",
         "description_krpri7",
