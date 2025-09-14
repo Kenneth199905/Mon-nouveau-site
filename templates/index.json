@@ -347,72 +347,6 @@
         "text_color": ""
       }
     },
-    "tabs_mfpxXp": {
-      "type": "tabs",
-      "blocks": {
-        "tab_yNek8w": {
-          "type": "tab",
-          "settings": {
-            "title": "Huile biotanique 100 % naturelle",
-            "content": "<p>Aucun dépilatoire agressif. Aucun parfum synthétique.</p><ul><li><strong>Cyperus Rotundus (racine)</strong> – ingrédient star, ralentit visiblement la repousse</li><li><strong>Extrait de Menthe Poivrée</strong> – sensation de fraîcheur, apaise la peau</li><li><strong>Extrait de Citron</strong> – apporte éclat et uniformité</li><li><strong>Vitamine E (Tocophérol)</strong> – antioxydant, protège la barrière cutanée</li><li><strong>Huile d’Olive</strong> – nourrit, hydrate et adoucit</li></ul>",
-            "page": ""
-          }
-        },
-        "tab_qtiCwz": {
-          "type": "tab",
-          "settings": {
-            "title": "Comment agis le sérum ?",
-            "content": "<p>Dès la première utilisation, la formule agit sur 3 fronts :</p><p><strong>1. Repousse</strong><br/>Le Cyperus Rotundus aide à ralentir la repousse entre deux séances.<br/>Avec une utilisation régulière, les poils paraissent plus fins et moins visibles.</p><p><strong>2. Confort</strong><br/>L’extrait de menthe poivrée procure une sensation de fraîcheur et aide à calmer la peau après l’épilation.</p><p><strong>3. Apparence de la peau</strong><br/>L’extrait de citron illumine le teint.<br/>La vitamine E et l’huile d’olive nourrissent et renforcent la barrière cutanée, réduisant irritations et effet “peau de fraise” après l’épilation.</p>",
-            "page": ""
-          }
-        },
-        "tab_gCbR6H": {
-          "type": "tab",
-          "settings": {
-            "title": "Comment l'utiliser ?",
-            "content": "<ol><li>Après le rasage, l’épilation ou l’utilisation d’un épilateur, appliquez 3 à 5 gouttes sur une peau propre et sèche.<br/></li><li>Massez jusqu’à absorption complète.<br/></li><li>Utilisez <strong>1 fois par jour</strong> (matin ou soir). Pour des résultats plus rapides, jusqu’à 2 fois/jour si votre peau le tolère.<br/></li><li>Restez régulière, même entre deux épilations.</li></ol><p>La majorité des utilisatrices constatent des résultats visibles en <strong>4 à 8 semaines</strong> avec une application quotidienne.</p>",
-            "page": ""
-          }
-        },
-        "tab_Ykgadr": {
-          "type": "tab",
-          "settings": {
-            "title": "90 jours Satisfait ou Remboursé",
-            "content": "<p>Essayer l'huile Isoria sans risque <strong>pendant 90 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le demander <strong>un remboursement intégral</strong>.</p>",
-            "page": ""
-          }
-        },
-        "tab_rXARw9": {
-          "type": "tab",
-          "settings": {
-            "title": "Service client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_yNek8w",
-        "tab_qtiCwz",
-        "tab_gCbR6H",
-        "tab_Ykgadr",
-        "tab_rXARw9"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center",
-        "first_tab_open": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#000000",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "featured_product_f3x3jh": {
       "type": "featured-product",
       "blocks": {
@@ -512,16 +446,6 @@
             "alignment": "center",
             "max_width": 500
           }
-        },
-        "liquid_Jrfrcb": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"review-section\">\n<div class=\"review-card\">\n<div class=\"reviewer-image\">\n<img src=\"https://cdn.shopify.com/s/files/1/0917/5187/4945/files/GLORESIA_-_hair_serum_-_product_page_image_19.png?v=1757855516\" alt=\"Reviewer Image\">\n</div>\n<div class=\"review-content\">\n<div class=\"reviewer-details\">\n<strong class=\"reviewer-name\">Lori</strong>\n<div class=\"reviewer-rating\">★★★★★</div>\n</div>\n<p class=\"review-text\">\nVery pleased with this purchase! It's high-quality, easy to use, and reliable. Highly recommend for its efficiency.\n</p>\n</div>\n</div>\n</div>\n<style>\n.review-section {\nmargin-top: 20px;\npadding: 10px;\nborder-radius: 8px;\nbackground-color: #f9f9f9;\nfont-family: Arial, sans-serif;\ncolor: #333;\n}\n.review-card {\ndisplay: flex;\nalign-items: center;\n}\n.reviewer-image {\nwidth: 60px; /* Square dimensions /\nheight: 60px; / Square dimensions /\nborder-radius: 8px; / Slightly rounded corners /\noverflow: hidden;\nmargin-right: 15px; / Space between image and text /\n}\n.reviewer-image img {\nwidth: 100%;\nheight: 100%;\nobject-fit: cover;\n}\n.review-content {\ndisplay: flex;\nflex-direction: column;\nmax-width: 75%; / Slightly increased width of the text box /\n}\n.reviewer-details {\ndisplay: flex;\nalign-items: center;\nmargin-bottom: 5px;\n}\n.reviewer-name {\nfont-size: 16px;\nmargin-right: 10px;\n}\n.reviewer-rating {\nfont-size: 14px;\ncolor: #ffcc00;\n}\n.review-text {\nfont-size: 12px; / Reduced by 2px /\nmargin: 0;\nfont-style: italic; / Italics added */\n}\n</style>"
-          }
-        },
-        "pickup_availability_kdifHN": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
@@ -539,9 +463,7 @@
         "quantity_selector_KBLwCV",
         "kaching_bundles_app_block_hD3Pyc",
         "buy_buttons_gGeQE3",
-        "image_kP4Wq8",
-        "liquid_Jrfrcb",
-        "pickup_availability_kdifHN"
+        "image_kP4Wq8"
       ],
       "name": "Featured product",
       "settings": {
@@ -560,6 +482,72 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "tabs_mfpxXp": {
+      "type": "tabs",
+      "blocks": {
+        "tab_yNek8w": {
+          "type": "tab",
+          "settings": {
+            "title": "Huile biotanique 100 % naturelle",
+            "content": "<p>Aucun dépilatoire agressif. Aucun parfum synthétique.</p><ul><li><strong>Cyperus Rotundus (racine)</strong> – ingrédient star, ralentit visiblement la repousse</li><li><strong>Extrait de Menthe Poivrée</strong> – sensation de fraîcheur, apaise la peau</li><li><strong>Extrait de Citron</strong> – apporte éclat et uniformité</li><li><strong>Vitamine E (Tocophérol)</strong> – antioxydant, protège la barrière cutanée</li><li><strong>Huile d’Olive</strong> – nourrit, hydrate et adoucit</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_qtiCwz": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment agis le sérum ?",
+            "content": "<p>Dès la première utilisation, la formule agit sur 3 fronts :</p><p><strong>1. Repousse</strong><br/>Le Cyperus Rotundus aide à ralentir la repousse entre deux séances.<br/>Avec une utilisation régulière, les poils paraissent plus fins et moins visibles.</p><p><strong>2. Confort</strong><br/>L’extrait de menthe poivrée procure une sensation de fraîcheur et aide à calmer la peau après l’épilation.</p><p><strong>3. Apparence de la peau</strong><br/>L’extrait de citron illumine le teint.<br/>La vitamine E et l’huile d’olive nourrissent et renforcent la barrière cutanée, réduisant irritations et effet “peau de fraise” après l’épilation.</p>",
+            "page": ""
+          }
+        },
+        "tab_gCbR6H": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment l'utiliser ?",
+            "content": "<ol><li>Après le rasage, l’épilation ou l’utilisation d’un épilateur, appliquez 3 à 5 gouttes sur une peau propre et sèche.<br/></li><li>Massez jusqu’à absorption complète.<br/></li><li>Utilisez <strong>1 fois par jour</strong> (matin ou soir). Pour des résultats plus rapides, jusqu’à 2 fois/jour si votre peau le tolère.<br/></li><li>Restez régulière, même entre deux épilations.</li></ol><p>La majorité des utilisatrices constatent des résultats visibles en <strong>4 à 8 semaines</strong> avec une application quotidienne.</p>",
+            "page": ""
+          }
+        },
+        "tab_Ykgadr": {
+          "type": "tab",
+          "settings": {
+            "title": "90 jours Satisfait ou Remboursé",
+            "content": "<p>Essayer l'huile Isoria sans risque <strong>pendant 90 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le demander <strong>un remboursement intégral</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_rXARw9": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_yNek8w",
+        "tab_qtiCwz",
+        "tab_gCbR6H",
+        "tab_Ykgadr",
+        "tab_rXARw9"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "rich_text_qfMphw": {
