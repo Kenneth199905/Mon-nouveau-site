@@ -705,7 +705,7 @@
           "settings": {
             "text": "Pourquoi choisir Isoria ?",
             "heading_tag": "h5",
-            "text_color": "#c295fa",
+            "text_color": "#000000",
             "gradient": ""
           }
         }
@@ -731,7 +731,7 @@
           "settings": {
             "text": "L’expertise dermatologique derrière Isoria",
             "heading_tag": "h5",
-            "text_color": "",
+            "text_color": "#000000",
             "gradient": ""
           }
         }
