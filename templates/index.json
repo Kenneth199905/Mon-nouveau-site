@@ -647,7 +647,7 @@
         "heading_48C9Yi": {
           "type": "heading",
           "settings": {
-            "text": "Une solution naturelle, respectueuse de la peau, pour retarder la repousse des poils",
+            "text": "Pourquoi choisir Isoria ?",
             "heading_tag": "h5",
             "text_color": "#000000",
             "gradient": ""
@@ -656,6 +656,32 @@
       },
       "block_order": [
         "heading_48C9Yi"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_ihXQhg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xpJEQL": {
+          "type": "heading",
+          "settings": {
+            "text": "L’expertise dermatologique derrière Isoria",
+            "heading_tag": "h5",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_xpJEQL"
       ],
       "name": "Rich text",
       "settings": {
@@ -687,32 +713,6 @@
       "name": "Timeline",
       "settings": {
         "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_ihXQhg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_xpJEQL": {
-          "type": "heading",
-          "settings": {
-            "text": "L’expertise dermatologique derrière Isoria",
-            "heading_tag": "h5",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_xpJEQL"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
