@@ -538,6 +538,32 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "rich_text_zxcHtW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HVhbEw": {
+          "type": "heading",
+          "settings": {
+            "text": "Ingrédients testés cliniquement",
+            "heading_tag": "h2",
+            "text_color": "#c295fa",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HVhbEw"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -551,6 +577,7 @@
     "custom_liquid_zzcMGk",
     "multi_column_k4Jqqj",
     "featured_product_f3x3jh",
-    "tabs_mfpxXp"
+    "tabs_mfpxXp",
+    "rich_text_zxcHtW"
   ]
 }
