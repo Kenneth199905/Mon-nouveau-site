@@ -773,6 +773,99 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "faq_d4nGkJ": {
+      "type": "faq",
+      "blocks": {
+        "item_RGA8mN": {
+          "type": "item",
+          "settings": {
+            "title": "Comment l’utiliser ?",
+            "content": "<p>Après rasage, épilation ou épilateur, appliquez 3 à 5 gouttes sur une peau propre et sèche, puis massez jusqu’à absorption.<br/>Continuez l’application <strong>tous les jours</strong>, même sans épilation.</p>"
+          }
+        },
+        "item_EbtRWp": {
+          "type": "item",
+          "settings": {
+            "title": "Quand vais-je voir des résultats ?",
+            "content": "<p>Beaucoup d’utilisatrices constatent une repousse moins visible et une peau plus lisse dès 2 semaines.<br/><br/>Les meilleurs résultats apparaissent entre <strong>4 et 8 semaines </strong>avec une utilisation régulière.<br/><br/>⚠️ Les résultats peuvent varier selon chaque personne.</p>"
+          }
+        },
+        "item_PHmizp": {
+          "type": "item",
+          "settings": {
+            "title": "À quelle fréquence dois-je l’appliquer ?",
+            "content": "<p>Une fois par jour (matin ou soir).<br/><br/>Pour des résultats plus rapides, vous pouvez appliquer jusqu’à 2 fois par jour si votre peau le tolère bien. La régularité est la clé.</p>"
+          }
+        },
+        "item_Dgjang": {
+          "type": "item",
+          "settings": {
+            "title": "Où puis-je l’appliquer ?",
+            "content": "<p>Zones sûres : aisselles, maillot, jambes, bras, visage (évitez le contour des yeux).<br/><br/>⚠️ Faites toujours un test cutané préalable et évitez les zones irritées, abîmées ou coup de soleil.</p>"
+          }
+        },
+        "item_jmK9Ei": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_3QKqTy": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_8B6Dak": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_NmzrTT": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_RGA8mN",
+        "item_EbtRWp",
+        "item_PHmizp",
+        "item_Dgjang",
+        "item_jmK9Ei",
+        "item_3QKqTy",
+        "item_8B6Dak",
+        "item_NmzrTT"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -792,6 +885,7 @@
     "multi_column_9NAH3F",
     "rich_text_q4qMPN",
     "rich_text_ihXQhg",
-    "timeline_UCkmxK"
+    "timeline_UCkmxK",
+    "faq_d4nGkJ"
   ]
 }
