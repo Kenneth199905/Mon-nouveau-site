@@ -837,7 +837,7 @@
           "type": "item",
           "settings": {
             "title": "Combien de temps pour recevoir ma commande ?",
-            "content": "<p>Nous traitons les commandes en <strong>1 à 2 jours ouvrés</strong>.<br/><br/>Une fois expédiée, la livraison prend généralement<strong> 5 à  10 jours ouvrés </strong>selon votre localisation.<br/><br/>Un numéro de suivi vous sera envoyé par e-mail.</p>"
+            "content": "<p>Nous traitons les commandes en <strong>1 à 2 jours ouvrés</strong>.<br/><br/>Une fois expédiée, la livraison prend généralement<strong> 5 à 10 jours ouvrés </strong>selon votre localisation.<br/><br/>Un numéro de suivi vous sera envoyé par e-mail.</p>"
           }
         }
       },
