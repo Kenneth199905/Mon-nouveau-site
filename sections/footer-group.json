@@ -88,6 +88,38 @@
     },
     "footer": {
       "type": "footer",
+      "blocks": {
+        "newsletter_R9JyJp": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Sign up to our newsletter",
+            "content": ""
+          }
+        },
+        "text_nFitJm": {
+          "type": "text",
+          "settings": {
+            "title": "About our store",
+            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "enable_follow_on_shop": true
+          }
+        },
+        "links_FMfFRP": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "newsletter_R9JyJp",
+        "text_nFitJm",
+        "links_FMfFRP"
+      ],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
