@@ -830,7 +830,7 @@
           "type": "item",
           "settings": {
             "title": "Puis-je le retourner si je ne suis pas satisfaite ?",
-            "content": "<p>Bien sûr. Vous bénéficiez de notre <strong>garantie 90 jours satisfait ou remboursé</strong>.<br/><br/>Si vous n’êtes pas convaincue sous 60 jours, nous vous remboursons intégralement — bouteilles ouvertes acceptées (un remboursement par cliente).</p>"
+            "content": "<p>Bien sûr. Vous bénéficiez de notre <strong>garantie 90 jours satisfait ou remboursé</strong>.<br/><br/>Si vous n’êtes pas convaincue sous 90 jours, nous vous remboursons intégralement — bouteilles ouvertes acceptées (un remboursement par cliente).</p>"
           }
         }
       },
