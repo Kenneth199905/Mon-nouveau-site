@@ -472,6 +472,72 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_mfpxXp": {
+      "type": "tabs",
+      "blocks": {
+        "tab_yNek8w": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 1",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "page": ""
+          }
+        },
+        "tab_qtiCwz": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_gCbR6H": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        },
+        "tab_Ykgadr": {
+          "type": "tab",
+          "settings": {
+            "title": "90 jours Satisfait ou Remboursé",
+            "content": "<p>Essayer l'huile Isoria sans risque <strong>pendant 90 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le demander <strong>un remboursement intégral</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_rXARw9": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_yNek8w",
+        "tab_qtiCwz",
+        "tab_gCbR6H",
+        "tab_Ykgadr",
+        "tab_rXARw9"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "Heading",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -484,6 +550,7 @@
     "rich_text_nfbqUp",
     "custom_liquid_zzcMGk",
     "multi_column_k4Jqqj",
-    "featured_product_f3x3jh"
+    "featured_product_f3x3jh",
+    "tabs_mfpxXp"
   ]
 }
