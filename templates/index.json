@@ -433,6 +433,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_LRGyKc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/paiement-securise-garantie_1060x_dc92eb4c-9b3e-42fb-96b6-d573ee71bce4.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_VcXzkt": {
           "type": "liquid",
           "settings": {
@@ -468,6 +476,7 @@
         "quantity_selector_KBLwCV",
         "kaching_bundles_app_block_hD3Pyc",
         "buy_buttons_gGeQE3",
+        "image_LRGyKc",
         "liquid_VcXzkt",
         "image_kP4Wq8",
         "liquid_gz7zTn"
