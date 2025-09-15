@@ -433,10 +433,10 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_dNDkjz": {
+        "liquid_FwNydM": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Logos de Paiement</title>\n  <style>\n    .icon-container {\n      display: flex;\n      gap: 10px;\n      align-items: center;\n      justify-content: center;\n      margin-top: 30px;\n    }\n\n    .icon {\n      width: 40px;\n      height: auto;\n    }\n  </style>\n</head>\n<body>\n\n  <div class=\"icon-container\">\n    <!-- Apple Pay -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/Apple_Pay-Logo.wine.png?v=1746126288\" alt=\"Apple Pay\">\n\n    <!-- Google Pay -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/images.png?v=1746126288\" alt=\"Google Pay\">\n\n    <!-- PayPal -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg\" alt=\"PayPal\">\n\n    <!-- Mastercard -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png\" alt=\"Mastercard\">\n\n    <!-- Visa -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png\" alt=\"Visa\">\n\n    <!-- American Express -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/hd-amex-american-express-logo-png-701751694708970jttzjjyo6e.png?v=1746126288\" alt=\"American Express\">\n  </div>"
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Logos de Paiement</title>\n  <style>\n    .payment-container {\n      display: flex;\n      flex-wrap: wrap;\n      gap: 15px;\n      align-items: center;\n      justify-content: center;\n      margin: 30px auto;\n      max-width: 500px;\n      padding: 20px;\n    }\n    \n    .payment-icon {\n      width: 45px;\n      height: auto;\n      transition: transform 0.2s ease;\n      filter: grayscale(0.2);\n    }\n    \n    .payment-icon:hover {\n      transform: scale(1.1);\n      filter: grayscale(0);\n    }\n    \n    /* Responsive design */\n    @media (max-width: 480px) {\n      .payment-container {\n        gap: 10px;\n        padding: 15px;\n      }\n      \n      .payment-icon {\n        width: 35px;\n      }\n    }\n  </style>\n</head>\n<body>\n  <div class=\"payment-container\">\n    <!-- Apple Pay -->\n    <img class=\"payment-icon\" \n         src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/Apple_Pay-Logo.wine.png?v=1746126288\" \n         alt=\"Apple Pay\" \n         loading=\"lazy\">\n    \n    <!-- Google Pay -->\n    <img class=\"payment-icon\" \n         src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/images.png?v=1746126288\" \n         alt=\"Google Pay\" \n         loading=\"lazy\">\n    \n    <!-- PayPal -->\n    <img class=\"payment-icon\" \n         src=\"https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg\" \n         alt=\"PayPal\" \n         loading=\"lazy\">\n    \n    <!-- Mastercard -->\n    <img class=\"payment-icon\" \n         src=\"https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png\" \n         alt=\"Mastercard\" \n         loading=\"lazy\">\n    \n    <!-- Visa -->\n    <img class=\"payment-icon\" \n         src=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png\" \n         alt=\"Visa\" \n         loading=\"lazy\">\n    \n    <!-- American Express -->\n    <img class=\"payment-icon\" \n         src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/hd-amex-american-express-logo-png-701751694708970jttzjjyo6e.png?v=1746126288\" \n         alt=\"American Express\" \n         loading=\"lazy\">\n  </div>\n</body>\n</html>"
           }
         },
         "liquid_gz7zTn": {
@@ -475,7 +475,7 @@
         "quantity_selector_KBLwCV",
         "kaching_bundles_app_block_hD3Pyc",
         "buy_buttons_gGeQE3",
-        "liquid_dNDkjz",
+        "liquid_FwNydM",
         "liquid_gz7zTn",
         "image_kP4Wq8",
         "liquid_VcXzkt"
