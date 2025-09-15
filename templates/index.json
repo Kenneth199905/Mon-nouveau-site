@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_02_10_14.png",
-            "mobile_image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_02_10_14.png",
+            "image": "shopify://shop_images/GLORESIA-hairserum-productpageimage_20.png",
+            "mobile_image": "shopify://shop_images/GLORESIA-hairserum-productpageimage_20.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -758,7 +758,7 @@
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "content_width": "medium",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
