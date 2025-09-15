@@ -453,6 +453,12 @@
             "max_width": 500
           }
         },
+        "text_GJ7fxb": {
+          "type": "text",
+          "settings": {
+            "text": "<h6>Vous et Isoria</h6>"
+          }
+        },
         "liquid_XKH4qF": {
           "type": "liquid",
           "settings": {
@@ -484,6 +490,7 @@
         "liquid_FwNydM",
         "liquid_gz7zTn",
         "image_kP4Wq8",
+        "text_GJ7fxb",
         "liquid_XKH4qF",
         "liquid_VcXzkt"
       ],
