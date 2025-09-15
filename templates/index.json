@@ -557,7 +557,7 @@
         "subheading": "",
         "title": "",
         "text_alignment": "center",
-        "first_tab_open": true,
+        "first_tab_open": false,
         "background": "",
         "background_gradient": "",
         "text_color": "#000000",
