@@ -410,13 +410,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "kaching_bundles_app_block_hD3Pyc": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "disabled": true,
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "moon_bundle_upsell_gift_app_block_j3mDPH": {
           "type": "shopify://apps/moon-bundle-upsell-gift/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
           "settings": {
@@ -475,7 +468,6 @@
         "description_krpri7",
         "variant_picker_eJPpkL",
         "quantity_selector_KBLwCV",
-        "kaching_bundles_app_block_hD3Pyc",
         "moon_bundle_upsell_gift_app_block_j3mDPH",
         "buy_buttons_gGeQE3",
         "liquid_FwNydM",
@@ -906,6 +898,30 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "1758031073639aa290": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_homepage_rYXeDN": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "nom-erum-anti-repousse-naturel",
+            "review_data": "real_data",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_homepage_rYXeDN"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -928,6 +944,7 @@
     "timeline_UCkmxK",
     "rich_text_q4qMPN",
     "custom_liquid_mAVL9k",
-    "faq_d4nGkJ"
+    "faq_d4nGkJ",
+    "1758031073639aa290"
   ]
 }
