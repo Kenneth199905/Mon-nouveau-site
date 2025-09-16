@@ -412,8 +412,15 @@
         },
         "kaching_bundles_app_block_hD3Pyc": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "disabled": true,
           "settings": {
             "product": "{{section.settings.product}}"
+          }
+        },
+        "moon_bundle_upsell_gift_app_block_j3mDPH": {
+          "type": "shopify://apps/moon-bundle-upsell-gift/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+          "settings": {
+            "moonbundle_selected_product": "{{section.settings.product}}"
           }
         },
         "buy_buttons_gGeQE3": {
@@ -469,6 +476,7 @@
         "variant_picker_eJPpkL",
         "quantity_selector_KBLwCV",
         "kaching_bundles_app_block_hD3Pyc",
+        "moon_bundle_upsell_gift_app_block_j3mDPH",
         "buy_buttons_gGeQE3",
         "liquid_FwNydM",
         "liquid_gz7zTn",
