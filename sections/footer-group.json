@@ -89,29 +89,12 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter_R9JyJp": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Inscrivez-vous pour recevoir les dernières actualités et nos offres.",
-            "content": ""
-          }
-        },
         "text_nFitJm": {
           "type": "text",
           "settings": {
             "title": "Nous contacter",
             "content": "<p>Service client : contact@atelierisoria.com</p><p><strong>Lundi au vendredi : </strong>9h à 12h - 14h à 19h</p>",
             "enable_follow_on_shop": false
-          }
-        },
-        "links_FMfFRP": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
           }
         },
         "text_rgzXKb": {
@@ -129,14 +112,30 @@
             "content": "<p>Isoria est une huile cosmétique à usage externe uniquement. Elle ne se substitue pas aux conseils ou traitements médicaux. Si vous suivez un traitement ou avez des préoccupations de santé, consultez votre professionnel de santé.</p>",
             "enable_follow_on_shop": false
           }
+        },
+        "text_ddDcwm": {
+          "type": "text",
+          "settings": {
+            "title": "Clause générale",
+            "content": "<p>Les informations de ce site sont données à titre indicatif. Testez toujours le produit sur une petite zone de peau avant utilisation complète. Nos produits naturels n’ont pas été validées par la DGCCRF ni par d’autres autorités sanitaires.</p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "links_FMfFRP": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
         }
       },
       "block_order": [
-        "newsletter_R9JyJp",
         "text_nFitJm",
-        "links_FMfFRP",
         "text_rgzXKb",
-        "text_QNzjjm"
+        "text_QNzjjm",
+        "text_ddDcwm",
+        "links_FMfFRP"
       ],
       "settings": {
         "show_social_media": true,
