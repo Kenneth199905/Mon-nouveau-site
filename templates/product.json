@@ -206,12 +206,65 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "rich_text_Knrr7F": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CikLXp": {
+          "type": "heading",
+          "settings": {
+            "text": "L’expertise dermatologique derrière Isoria",
+            "heading_tag": "h4",
+            "text_color": "#c295fa",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CikLXp"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "timeline_JJPqU6": {
+      "type": "timeline",
+      "blocks": {
+        "slide_8tw7aA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/GLORESIA_-_hair_serum_-_product_page_image_19_c0358b1a-3191-4d76-9874-649dc98c1c6c.png",
+            "navigation_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p>En tant que dermatologue depuis plus de 20 ans, j’ai vu des centaines de femmes souffrir d’épilation répétée, de rougeurs et de poils incarnés. Mon objectif était clair : développer une solution naturelle, respectueuse des peaux sensibles, qui ralentit réellement la repousse. C’est ainsi qu’est né Isoria, à base de Cyperus Rotundus, inspiré des rituels égyptiens et validé par mes patientes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_8tw7aA"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "related-products",
     "rich_text_kFPnfH",
-    "custom_liquid_cLLjUx"
+    "custom_liquid_cLLjUx",
+    "rich_text_Knrr7F",
+    "timeline_JJPqU6"
   ]
 }
