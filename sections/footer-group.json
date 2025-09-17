@@ -113,12 +113,21 @@
             "show_menu_title": true,
             "menu_title": ""
           }
+        },
+        "text_rgzXKb": {
+          "type": "text",
+          "settings": {
+            "title": "Clause des résultats",
+            "content": "<p>L'efficacité de ce produit varie selon chaque utilisatrice. Les témoignages présentés reflètent des expériences individuelles et ne constituent pas une garantie de résultats identiques pour toutes.</p>",
+            "enable_follow_on_shop": false
+          }
         }
       },
       "block_order": [
         "newsletter_R9JyJp",
         "text_nFitJm",
-        "links_FMfFRP"
+        "links_FMfFRP",
+        "text_rgzXKb"
       ],
       "settings": {
         "show_social_media": true,
