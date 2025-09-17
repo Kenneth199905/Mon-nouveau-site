@@ -127,7 +127,7 @@
           "settings": {
             "title": "Clause médicale",
             "content": "<p>Isoria est une huile cosmétique à usage externe uniquement. Elle ne se substitue pas aux conseils ou traitements médicaux. Si vous suivez un traitement ou avez des préoccupations de santé, consultez votre professionnel de santé.</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
