@@ -37,6 +37,32 @@
         "overlay_opacity": 20
       }
     },
+    "rich_text_p8fpk9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JBVep7": {
+          "type": "heading",
+          "settings": {
+            "text": "FIÈRE D'AVOIR ÉTÉ SOLLICITÉE PAR",
+            "heading_tag": "h5",
+            "text_color": "#c295fa",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_JBVep7"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "logo_list_Xy4apP": {
       "type": "logo-list",
       "blocks": {
@@ -83,7 +109,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur :",
+        "title": "",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -919,6 +945,7 @@
   },
   "order": [
     "image_with_text_overlay_6gAbd7",
+    "rich_text_p8fpk9",
     "logo_list_Xy4apP",
     "rich_text_gCReF6",
     "image_with_text_overlay_pYfapK",
