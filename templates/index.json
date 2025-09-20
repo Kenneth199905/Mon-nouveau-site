@@ -150,22 +150,8 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_3WUieU": {
+    "rich_text_K9ztnm": {
       "type": "rich-text",
-      "blocks": {
-        "heading_KBjiNq": {
-          "type": "heading",
-          "settings": {
-            "text": "Une huile botanique 100% naturelle qui réduit la pilosité en douceur",
-            "heading_tag": "h4",
-            "text_color": "#c295fa",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_KBjiNq"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -176,46 +162,40 @@
         "text_color": ""
       }
     },
-    "slideshow_LjHaXb": {
-      "type": "slideshow",
+    "rich_text_LiU74g": {
+      "type": "rich-text",
       "blocks": {
-        "image_mRJxxQ": {
+        "heading_NRMPgP": {
+          "type": "heading",
+          "settings": {
+            "text": "AVANT / APRÈS",
+            "heading_tag": "h4",
+            "text_color": "#c295fa",
+            "gradient": ""
+          }
+        },
+        "image_WG9MB8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ezgif.com-video-to-gif-converter_1.gif",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
+            "image": "shopify://shop_images/2024_21_f589cdbf-1f06-49e1-b242-553bb0bcf8d8-vmake-Photoroom-vmake.jpg",
+            "width_mode": "custom",
+            "max_width": 1000,
+            "mobile_max_width": 600
           }
         }
       },
       "block_order": [
-        "image_mRJxxQ"
+        "heading_NRMPgP",
+        "image_WG9MB8"
       ],
-      "name": "Slideshow",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "rich_text_nfbqUp": {
@@ -700,6 +680,74 @@
         "text_color": ""
       }
     },
+    "rich_text_3WUieU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KBjiNq": {
+          "type": "heading",
+          "settings": {
+            "text": "Une huile botanique 100% naturelle qui réduit la pilosité en douceur",
+            "heading_tag": "h4",
+            "text_color": "#c295fa",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_KBjiNq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_LjHaXb": {
+      "type": "slideshow",
+      "blocks": {
+        "image_mRJxxQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ezgif.com-video-to-gif-converter_1.gif",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_mRJxxQ"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
     "rich_text_ihXQhg": {
       "type": "rich-text",
       "blocks": {
@@ -921,8 +969,8 @@
     "logo_list_Xy4apP",
     "rich_text_gCReF6",
     "image_with_text_overlay_pYfapK",
-    "rich_text_3WUieU",
-    "slideshow_LjHaXb",
+    "rich_text_K9ztnm",
+    "rich_text_LiU74g",
     "rich_text_nfbqUp",
     "custom_liquid_zzcMGk",
     "multi_column_k4Jqqj",
@@ -932,6 +980,8 @@
     "tabs_mfpxXp",
     "rich_text_qfMphw",
     "multi_column_9NAH3F",
+    "rich_text_3WUieU",
+    "slideshow_LjHaXb",
     "rich_text_ihXQhg",
     "timeline_UCkmxK",
     "rich_text_q4qMPN",
