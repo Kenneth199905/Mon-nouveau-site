@@ -410,6 +410,12 @@
             "moonbundle_selected_product": "{{section.settings.product}}"
           }
         },
+        "liquid_4m3UjU": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"countdown-container\">\n  <p class=\"countdown-title\">Promotion prend fin dans</p>\n  <div class=\"countdown-timer\">\n    <div class=\"time-unit\">\n      <span id=\"days\">00</span>\n      <small>J</small>\n    </div>\n    <span class=\"sep\">:</span>\n    <div class=\"time-unit\">\n      <span id=\"hours\">00</span>\n      <small>H</small>\n    </div>\n    <span class=\"sep\">:</span>\n    <div class=\"time-unit\">\n      <span id=\"minutes\">15</span>\n      <small>M</small>\n    </div>\n    <span class=\"sep\">:</span>\n    <div class=\"time-unit\">\n      <span id=\"seconds\">00</span>\n      <small>S</small>\n    </div>\n  </div>\n</div>\n\n<style>\n.countdown-container {\n  text-align: center;\n  padding: 15px;\n  background: #f8f9fa;\n  border-radius: 8px;\n  margin: 10px 0;\n}\n\n.countdown-title {\n  font-size: 0.9rem;\n  color: #666;\n  margin: 0 0 10px 0;\n}\n\n.countdown-timer {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n}\n\n.time-unit {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  gap: 2px;\n}\n\n.time-unit span {\n  font-size: 1.4rem;\n  font-weight: 600;\n  background: #333;\n  color: white;\n  padding: 6px 10px;\n  border-radius: 4px;\n  min-width: 40px;\n  line-height: 1;\n}\n\n.time-unit small {\n  font-size: 0.7rem;\n  color: #666;\n  font-weight: 500;\n}\n\n.sep {\n  font-size: 1.2rem;\n  font-weight: 600;\n  color: #333;\n  margin: 0 2px;\n}\n\n@media (max-width: 480px) {\n  .time-unit span {\n    font-size: 1.2rem;\n    padding: 5px 8px;\n    min-width: 35px;\n  }\n  .countdown-timer { gap: 6px; }\n}\n</style>\n\n<script>\nfunction startCountdown() {\n  const endDate = new Date();\n  endDate.setMinutes(endDate.getMinutes() + 15);\n  \n  function updateCountdown() {\n    const now = new Date().getTime();\n    const distance = endDate.getTime() - now;\n    \n    if (distance < 0) {\n      document.getElementById(\"days\").textContent = \"00\";\n      document.getElementById(\"hours\").textContent = \"00\";\n      document.getElementById(\"minutes\").textContent = \"00\";\n      document.getElementById(\"seconds\").textContent = \"00\";\n      return;\n    }\n    \n    const days = Math.floor(distance / (1000 * 60 * 60 * 24));\n    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\n    const seconds = Math.floor((distance % (1000 * 60)) / 1000);\n    \n    document.getElementById(\"days\").textContent = days.toString().padStart(2, '0');\n    document.getElementById(\"hours\").textContent = hours.toString().padStart(2, '0');\n    document.getElementById(\"minutes\").textContent = minutes.toString().padStart(2, '0');\n    document.getElementById(\"seconds\").textContent = seconds.toString().padStart(2, '0');\n  }\n  \n  updateCountdown();\n  setInterval(updateCountdown, 1000);\n}\n\ndocument.addEventListener('DOMContentLoaded', startCountdown);\n</script>"
+          }
+        },
         "buy_buttons_gGeQE3": {
           "type": "buy_buttons",
           "settings": {
@@ -440,13 +446,6 @@
             "alignment": "center",
             "max_width": 500
           }
-        },
-        "liquid_VcXzkt": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<div class=\"order-arrival\">\n  <div class=\"order-today\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">\n    <g clip-path=\"url(#clip0_90_774)\"> <path d=\"M10 18.3334C14.6024 18.3334 18.3333 14.6025 18.3333 10.0001C18.3333 5.39771 14.6024 1.66675 10 1.66675C5.39763 1.66675 1.66667 5.39771 1.66667 10.0001C1.66667 14.6025 5.39763 18.3334 10 18.3334Z\" stroke=\"#105750\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path> <path d=\"M10 5V10L13.3333 11.6667\" stroke=\"#105750\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path> </g>\n    <defs>\n      <clipPath id=\"clip0_90_774\">\n        <rect width=\"20\" height=\"20\" fill=\"white\"></rect>\n      </clipPath>\n    </defs>\n  </svg>\n  <div class=\"stacked-text\">\n    <p>Commandez <br/>\n    <strong>Aujourd'hui</strong>\n    </p>\n</div>\n  </div>\n  <div class=\"order-arrow\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"44\" height=\"20\" viewBox=\"0 0 44 20\" fill=\"none\">\n    <path d=\"M3.99997 10H38.6666\" stroke=\"#105750\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path> <path d=\"M33 4.16675L38.8333 10.0001L33 15.8334\" stroke=\"#105750\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  </svg>\n  </div>\n  <div class=\"arrival-date\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n    <path d=\"M17.4167 3.66675H4.58333C3.57081 3.66675 2.75 4.48756 2.75 5.50008V18.3334C2.75 19.3459 3.57081 20.1667 4.58333 20.1667H17.4167C18.4292 20.1667 19.25 19.3459 19.25 18.3334V5.50008C19.25 4.48756 18.4292 3.66675 17.4167 3.66675Z\" stroke=\"#105750\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path> <path d=\"M14.6667 1.83325V5.49992\" stroke=\"#105750\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path> <path d=\"M7.33334 1.83325V5.49992\" stroke=\"#105750\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path> <path d=\"M2.75 8.25H19.25\" stroke=\"#105750\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path> <path d=\"M14.6667 11.3438L9.62501 16.3854L7.33334 14.0937\" stroke=\"#105750\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  </svg>\n  <div class=\"stacked-text\">\n    <p>Livraison <br/>\n    <strong>sous 4 à 7 jours </strong>\n    </p>\n</div>\n  </div>\n</div>\n\n<style>\n  .order-arrival {\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n    background-color: #f6fbf6; /* Light green background */\n    border: 1px solid #e0e0e0; /* Optional border */\n    padding: 10px 15px;\n    border-radius: 8px;\n    font-family: Arial, sans-serif;\n  }\n  .order-today,\n  .arrival-date {\n    display: flex;\n    align-items: center;\n    gap: 15px;\n  }\n  .order-today span,\n  .arrival-date span {\n    font-size: 14px;\n    color: #444; /* Subdued text color */\n  }\n  .order-today strong,\n  .arrival-date strong {\n    font-size: 16px;\n    color: #000; /* Bold text color */\n  }\n  .order-arrow {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n.stacked-text p{\nline-height: 22px;\n}\n.order-arrival p{\nmargin: 0 !important;\n}\n</style>"
-          }
         }
       },
       "block_order": [
@@ -462,11 +461,11 @@
         "variant_picker_eJPpkL",
         "quantity_selector_KBLwCV",
         "moon_bundle_upsell_gift_app_block_j3mDPH",
+        "liquid_4m3UjU",
         "buy_buttons_gGeQE3",
         "liquid_FwNydM",
         "liquid_gz7zTn",
-        "image_kP4Wq8",
-        "liquid_VcXzkt"
+        "image_kP4Wq8"
       ],
       "name": "Featured product",
       "settings": {
