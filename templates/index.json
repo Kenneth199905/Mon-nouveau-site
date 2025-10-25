@@ -275,6 +275,7 @@
         "item_XLFeQ8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_y9mm52y9mm52y9mm-Photoroom.png",
             "column_size": "3",
             "title": "Sophie",
             "heading_tag": "h4",
@@ -287,8 +288,9 @@
         "item_bEUccb": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_o4qmgyo4qmgyo4qm-Photoroom.png",
             "column_size": "3",
-            "title": "Claire",
+            "title": "Eve",
             "heading_tag": "h4",
             "content": "<p>Je fais partie des peaux qui rougissent à la moindre nouveauté. Honnêtement, j’avais peur que ça brûle ou que ça tiraille. Au contraire : zéro picotement, aucune réaction. Ma peau est restée calme, souple, et même mes rougeurs autour du nez ont diminué. J’ai enfin trouvé un soin qui n’agresse pas ma peau</p>",
             "link_url": "",
