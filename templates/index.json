@@ -493,8 +493,8 @@
           "type": "heading",
           "settings": {
             "text": "Vous et Isoria",
-            "heading_tag": "h5",
-            "text_color": "#c295fa",
+            "heading_tag": "h3",
+            "text_color": "#c75551",
             "gradient": ""
           }
         }
