@@ -42,7 +42,6 @@
         "logo_YTV67T": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/cosmopolitan.png",
             "logo_width": 120,
             "link": ""
           }
@@ -50,7 +49,6 @@
         "logo_D3tpLy": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ELLE_70bcf044-2107-406f-ace8-e816a9d06f07.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -58,7 +56,6 @@
         "logo_gkdj6y": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/unnamed__1_-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
@@ -66,7 +63,6 @@
         "logo_JCYeki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_3e94933b-ab5d-4bc3-a73b-baff76e3212c.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -82,7 +78,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur :",
+        "title": "Vu sur",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -101,7 +97,7 @@
         "heading_BeiGx8": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir la cure Isoria+ Super Calm ?",
+            "text": "Pourquoi choisir ISORIA ?",
             "heading_tag": "h3",
             "text_color": "#c295fa",
             "gradient": ""
