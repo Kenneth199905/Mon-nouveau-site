@@ -15,7 +15,7 @@
         "heading_H8EdjW": {
           "type": "heading",
           "settings": {
-            "text": "DITES ADIEU LA REPOUSSE DES POILS INDÉSIRABLES...",
+            "text": "Retrouvez une peau plus ferme, hydratée et éclatante",
             "heading_tag": "h3"
           }
         }
@@ -29,11 +29,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/imgi_4_penkolichev_make_it_women_with_serum_on_her_face_de0c3f6c-d964-4634-9f06-6f84e0e1e548.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 20
+        "overlay_opacity": 35
       }
     },
     "logo_list_Xy4apP": {
@@ -101,9 +102,9 @@
         "heading_BeiGx8": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir ISORIA ?",
+            "text": "Pourquoi choisir le masque Anti-âge Nuit Isoria ?",
             "heading_tag": "h3",
-            "text_color": "#c295fa",
+            "text_color": "#c75551",
             "gradient": ""
           }
         }
