@@ -168,8 +168,8 @@
         "heading_NRMPgP": {
           "type": "heading",
           "settings": {
-            "text": "AVANT / APRÈS",
-            "heading_tag": "h4",
+            "text": "Voyez par vous même la différence",
+            "heading_tag": "h3",
             "text_color": "#c75551",
             "gradient": ""
           }
@@ -194,7 +194,7 @@
         "video_3G9CV3": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/78a05b9cad9a4955b98ee3a257dfaca1.HD-1080p-2.5Mbps-59963988.mp4",
+            "video": "shopify://files/videos/1025.mov",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -238,7 +238,7 @@
           "settings": {
             "text": "Nos clientes en parlent le mieux",
             "heading_tag": "h4",
-            "text_color": "#c295fa",
+            "text_color": "#c75551",
             "gradient": ""
           }
         }
