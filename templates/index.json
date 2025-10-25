@@ -42,7 +42,7 @@
         "logo_YTV67T": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/unnamed__1_-removebg-preview.png",
+            "logo": "shopify://shop_images/cosmopolitan.png",
             "logo_width": 120,
             "link": ""
           }
@@ -50,7 +50,7 @@
         "logo_D3tpLy": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_3e94933b-ab5d-4bc3-a73b-baff76e3212c.webp",
+            "logo": "shopify://shop_images/vogue_9b40c589-9044-4e5e-a05f-9ce4048c9bab.png",
             "logo_width": 120,
             "link": ""
           }
@@ -58,7 +58,7 @@
         "logo_gkdj6y": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/cosmopolitan.png",
+            "logo": "shopify://shop_images/Marie_Claire_3e94933b-ab5d-4bc3-a73b-baff76e3212c.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -66,7 +66,7 @@
         "logo_JCYeki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/vogue.png",
+            "logo": "shopify://shop_images/ELLE_70bcf044-2107-406f-ace8-e816a9d06f07.svg",
             "logo_width": 120,
             "link": ""
           }
