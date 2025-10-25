@@ -263,7 +263,7 @@
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": true,
-        "liquid": "<!-- Bloc Trustpilot -->\n<div style=\"font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;\n            text-align:center;line-height:1.35;max-width:300px;margin:0 auto;color:#000;\">\n\n  <!-- Ligne principale -->\n  <div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px;\n              font-size:24px;font-weight:600;\">\n    <span>Excellent</span>\n    <span style=\"font-weight:700;\">4.7</span>\n    <span>/ 5</span>\n\n    <!-- 5 étoiles vertes -->\n    <span style=\"color:#00B67A;font-size:22px;letter-spacing:1px;\">★★★★★</span>\n  </div>\n\n  <!-- Ligne “Basé sur +2000 avis Trustpilot” -->\n  <div style=\"margin-top:4px;font-size:14px;color:#555;display:flex;\n              flex-wrap:wrap;justify-content:center;align-items:center;gap:4px;\">\n    <span>Basé sur <strong>+1067</strong> avis</span>\n    <span style=\"color:#00B67A;font-size:15px;\">★</span>\n    <span>Trustpilot</span>\n  </div>\n\n</div>",
+        "liquid": "<!-- Bloc Trustpilot -->\n<div style=\"font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;\n            text-align:center;line-height:1.35;max-width:300px;margin:0 auto;color:#000;\">\n\n  <!-- Ligne principale -->\n  <div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px;\n              font-size:24px;font-weight:600;\">\n    <span>Excellent</span>\n    <span style=\"font-weight:700;\">4.7</span>\n    <span>/ 5</span>\n\n    <!-- 5 étoiles vertes -->\n    <span style=\"color:#00B67A;font-size:22px;letter-spacing:1px;\">★★★★★</span>\n  </div>\n\n  <!-- Ligne “Basé sur +2000 avis Trustpilot” -->\n  <div style=\"margin-top:4px;font-size:14px;color:#555;display:flex;\n              flex-wrap:wrap;justify-content:center;align-items:center;gap:4px;\">\n    <span>Basé sur <strong>+2067</strong> avis</span>\n    <span style=\"color:#00B67A;font-size:15px;\">★</span>\n    <span>Trustpilot</span>\n  </div>\n\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -276,9 +276,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Sylvie",
+            "title": "Sophie",
             "heading_tag": "h4",
-            "content": "<p>Depuis des années, je cherchais une solution pour mes poils au menton et sur la lèvre supérieure liés au SOPK. Rien n’était efficace… jusqu’à ce soin ! Aujourd’hui, la repousse est quasiment inexistante et les quelques poils restants sont si fins qu’on ne les distingue même plus. Je me sens enfin libérée de ce complexe !</p>",
+            "content": "<p>Ma peau réagit facilement aux masques épais, j’avais donc des réserves sur l’effet « masque de nuit ». Surprise totale : sa texture fine et fondante ne laisse aucune sensation de collage. Au réveil, la peau semble avoir tout absorbé, avec un éclat frais et naturel. C’est le premier masque de nuit que je supporte sans aucune brillance.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -290,7 +290,7 @@
             "column_size": "3",
             "title": "Claire",
             "heading_tag": "h4",
-            "content": "<p>J’étais sceptique au départ… mais après quelques semaines, j’ai vu la différence ! La repousse est bien plus lente, mes poils sont plus fins et je gagne un temps fou. Avant, je me rasais deux fois par semaine, aujourd’hui une fois tous les 10 jours suffit !</p>",
+            "content": "<p>Je fais partie des peaux qui rougissent à la moindre nouveauté. Honnêtement, j’avais peur que ça brûle ou que ça tiraille. Au contraire : zéro picotement, aucune réaction. Ma peau est restée calme, souple, et même mes rougeurs autour du nez ont diminué. J’ai enfin trouvé un soin qui n’agresse pas ma peau</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -300,9 +300,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Agathe",
+            "title": "Marie-Claire",
             "heading_tag": "h4",
-            "content": "<p>Après des années d'épilation douloureuse à la cire et de brûlures dues au rasoir, ce sérum a complètement changé ma vie. Les poils repoussent tellement plus lentement et sont tellement plus fins que je n'ai plus besoin de me raser qu'une fois toutes les 2 à 3 semaines ! Ma peau est plus lisse que jamais, sans ces boutons rouges !</p>",
+            "content": "<p>Ma plus grande crainte, c’était que le masque me crée des irritations. En une semaine à peine, mon teint est devenu plus uniforme, et les taches que j’avais depuis cet été ont visiblement éclairci. Le masque sèche vite, ne colle pas à l’oreiller, et la peau respire toute la nuit. Le matin, mon visage est lisse, hydraté, et surtout… plus clair et homogène. </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -312,9 +312,33 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Marie",
+            "title": "Lucienne",
             "heading_tag": "h4",
-            "content": "<p>Depuis des années, je me sentais mal à l’aise à cause de ces taches sombres et de la texture irrégulière sous mes aisselles. Rien n’y faisait… jusqu’à ce sérum ! Ce sérum est incroyable ! Mes aisselles sont lisses, éclaircies et la repousse est beaucoup plus lente.</p>",
+            "content": "<p>J’avais peur que le masque laisse ce fameux film gras désagréable, mais pas du tout ! La texture pénètre rapidement sans coller, et le teint reste frais, uniforme et lumineux. Le matin, ma peau est douce, sans trace. Mon fond de teint s’applique mieux qu’avant — plus besoin de base ! C’est devenu mon secret pour un maquillage parfait et une peau saine dès le réveil.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_e7JEMg": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Jeanne",
+            "heading_tag": "h4",
+            "content": "<p>Je n’ai ni le temps ni l’envie de passer des heures dans une routine beauté complexe. Ce masque a tout changé. En deux minutes, il s’applique, se fond, et agit pendant que je dors. Au réveil, la peau est lissée, rebondie, comme repulpée de l’intérieur. Les traits sont détendus, le teint incroyablement frais.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4B86xY": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Je me méfie toujours des produits trop promus sur les réseaux… mais là, au bout d’une semaine, le miroir parle pour moi. Mes pommettes sont plus fermes, mes ridules moins visibles, et sans filtre ! J’ai l’impression d’avoir retrouvé le visage que j’avais il y a 5 ans.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -325,7 +349,9 @@
         "item_XLFeQ8",
         "item_bEUccb",
         "item_jjrQMK",
-        "item_6BWDrh"
+        "item_6BWDrh",
+        "item_e7JEMg",
+        "item_4B86xY"
       ],
       "name": "Multi-column",
       "settings": {
