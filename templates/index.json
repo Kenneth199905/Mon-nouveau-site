@@ -368,7 +368,7 @@
         "text_PEhGwF": {
           "type": "text",
           "settings": {
-            "text": "<p>❌ Ralentit naturellement la repousse des poils<br/>✨ Poils plus fins et moins visibles au fil du temps<br/>💆‍♀️ Fonctionne sur toutes les parties du corps</p>"
+            "text": "<p>💧 <strong>Hydratation & repulpance</strong> grâce à l’acide hyaluronique et la glycérine</p><p>✨ <strong>Renforcement de l’élasticité</strong> via le collagène et la niacinamide</p><p>🌙 <strong>Mode d’application nocturne ultra‑pratique</strong> : pose, séchage, réveil glow</p><p>✔️ <strong>Fini peel‑off doux</strong> sans tirailler ni coller</p>"
           }
         },
         "image_TWWVF3": {
@@ -470,7 +470,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "nom-erum-anti-repousse-naturel",
+        "product": "patchs-yeux-aloe-vera-collagene",
         "desktop_media_width": 65,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
