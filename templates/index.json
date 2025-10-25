@@ -340,8 +340,9 @@
         "item_4B86xY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_n7n7mrn7n7mrn7n7-Photoroom.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Nadia",
             "heading_tag": "h4",
             "content": "<p>Je me méfie toujours des produits trop promus sur les réseaux… mais là, au bout d’une semaine, le miroir parle pour moi. Mes pommettes sont plus fermes, mes ridules moins visibles, et sans filtre ! J’ai l’impression d’avoir retrouvé le visage que j’avais il y a 5 ans.</p>",
             "link_url": "",
