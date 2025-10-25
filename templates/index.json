@@ -591,90 +591,8 @@
         "heading_gradient": ""
       }
     },
-    "rich_text_ihXQhg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_xpJEQL": {
-          "type": "heading",
-          "settings": {
-            "text": "Une combinaison naturelle pour un effet rajeunissant et durable",
-            "heading_tag": "h3",
-            "text_color": "#c75551",
-            "gradient": ""
-          }
-        },
-        "richtext_Hap3gm": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Approuvé par les dermatologues et les scientifiques</strong>, essayez notre masque comme nos <strong>+20 000 clientes satisfaites.</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_xpJEQL",
-        "richtext_Hap3gm"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#c295fa"
-      }
-    },
-    "timeline_UCkmxK": {
-      "type": "timeline",
-      "blocks": {
-        "slide_jMXpxt": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "",
-            "subheading": "",
-            "title": "",
-            "content": "<p>En tant que dermatologue depuis plus de 20 ans, j’ai vu des centaines de femmes souffrir d’épilation répétée, de rougeurs et de poils incarnés. Mon objectif était clair : développer une solution naturelle, respectueuse des peaux sensibles, qui ralentit réellement la repousse. C’est ainsi qu’est né Isoria, à base de Cyperus Rotundus, inspiré des rituels égyptiens et validé par mes patientes.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_jMXpxt"
-      ],
-      "name": "Timeline",
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "slideshow_FpdYEP": {
       "type": "slideshow",
-      "blocks": {
-        "image_8WQUNb": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_8WQUNb"
-      ],
       "name": "Slideshow",
       "settings": {
         "full_width": true,
@@ -689,28 +607,28 @@
         "background_gradient": ""
       }
     },
-    "rich_text_qfMphw": {
+    "rich_text_3tnwFM": {
       "type": "rich-text",
       "blocks": {
-        "heading_6awXfh": {
+        "heading_FmDEbh": {
           "type": "heading",
           "settings": {
-            "text": "Libérez-vous de l'épilation quotidienne",
-            "heading_tag": "h4",
-            "text_color": "#000000",
+            "text": "Une combinaison naturelle pour un effet rajeunissant et durable",
+            "heading_tag": "h3",
+            "text_color": "#c75551",
             "gradient": ""
           }
         },
-        "richtext_E8HbLw": {
+        "richtext_GGbCLz": {
           "type": "richtext",
           "settings": {
-            "content": "<p>L'huile <strong>ISORIA</strong> combine des extraits botaniques ciblés pour ralentir naturellement la repousse des poils.</p>"
+            "content": "<p><strong>Approuvé par les dermatologues et les scientifiques</strong>, essayez notre masque comme nos <strong>+20 000 clientes satisfaites.</strong></p>"
           }
         }
       },
       "block_order": [
-        "heading_6awXfh",
-        "richtext_E8HbLw"
+        "heading_FmDEbh",
+        "richtext_GGbCLz"
       ],
       "name": "Rich text",
       "settings": {
@@ -820,47 +738,6 @@
         "text_color": ""
       }
     },
-    "slideshow_LjHaXb": {
-      "type": "slideshow",
-      "blocks": {
-        "image_mRJxxQ": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_mRJxxQ"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
     "rich_text_q4qMPN": {
       "type": "rich-text",
       "blocks": {
@@ -882,19 +759,6 @@
         "full_width": true,
         "content_width": "medium",
         "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_mAVL9k": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Comparison Table</title>\n  <style>\n    body.unique-body-Abc123 {\n      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n      background-color: #f0f2f5;\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 100vh;\n      margin: 0;\n      padding: 2px 0; /* Üstten ve alttan 2px boşluk */\n    }\n\n    .unique-comparison-table-Def456 {\n      width: 100%;\n      max-width: 700px;\n      border-collapse: separate;\n      border-spacing: 0;\n      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);\n      background-color: #fff;\n      border-radius: 10px;\n      overflow: hidden;\n      margin: 2px 0; /* Üstten ve alttan 2px boşluk */\n    }\n\n    .unique-comparison-table-Def456 th, .unique-comparison-table-Def456 td {\n      border: none;\n      padding: 15px;\n      text-align: center;\n      font-size: 14px;\n    }\n\n    .unique-comparison-table-Def456 th {\n      background-color: #C295FA; /* Couleur violette demandée */\n      color: #fff;\n      font-weight: 600;\n      text-transform: uppercase;\n    }\n\n    .unique-comparison-table-Def456 th:first-child, .unique-comparison-table-Def456 td:first-child {\n      text-align: left;\n      padding-left: 20px;\n    }\n\n    .unique-comparison-table-Def456 tbody tr {\n      border-bottom: 1px solid #e0e0e0;\n    }\n\n    .unique-comparison-table-Def456 tbody tr:last-child {\n      border-bottom: none;\n    }\n\n    .unique-check-Ghi789 {\n      color: #28a745; /* Yeşil renk */\n    }\n\n    .unique-cross-Jkl012 {\n      color: #dc3545; /* Kırmızı renk */\n    }\n\n    .unique-icon-Mno345 {\n      font-size: 18px;\n    }\n\n    .unique-comparison-table-Def456 tbody tr:nth-child(odd) {\n      background-color: #f9f9f9;\n    }\n  </style>\n</head>\n<body class=\"unique-body-Abc123\">\n\n<table class=\"unique-comparison-table-Def456\">\n  <thead>\n    <tr>\n      <th></th>\n      <th>ISORIA</th>\n      <th>Traitements Chimiques</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Ralenti la repousse</td>\n      <td class=\"unique-icon-Mno345 unique-check-Ghi789\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M9 19L3 13l1.41-1.41L9 16.17l10.59-10.59L21 5l-12 12z\"/>\n        </svg>\n      </td>\n      <td class=\"unique-icon-Mno345 unique-cross-Jkl012\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M19.41 6.58L18 5.17 12 11.17 6 5.17 4.59 6.58 10.59 12.58 4.59 18.58 6 20l6-6 6 6 1.41-1.41-6-6z\"/>\n        </svg>\n      </td>\n    </tr>\n    <tr>\n      <td>Adapté aux peaux sensibles</td>\n      <td class=\"unique-icon-Mno345 unique-check-Ghi789\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M9 19L3 13l1.41-1.41L9 16.17l10.59-10.59L21 5l-12 12z\"/>\n        </svg>\n      </td>\n      <td class=\"unique-icon-Mno345 unique-cross-Jkl012\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M19.41 6.58L18 5.17 12 11.17 6 5.17 4.59 6.58 10.59 12.58 4.59 18.58 6 20l6-6 6 6 1.41-1.41-6-6z\"/>\n        </svg>\n      </td>\n    </tr>\n    <tr>\n      <td>Formule entièrement naturelle</td>\n      <td class=\"unique-icon-Mno345 unique-check-Ghi789\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M9 19L3 13l1.41-1.41L9 16.17l10.59-10.59L21 5l-12 12z\"/>\n        </svg>\n      </td>\n      <td class=\"unique-icon-Mno345 unique-cross-Jkl012\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M19.41 6.58L18 5.17 12 11.17 6 5.17 4.59 6.58 10.59 12.58 4.59 18.58 6 20l6-6 6 6 1.41-1.41-6-6z\"/>\n        </svg>\n      </td>\n    </tr>\n    <tr>\n      <td>Doux pour la peau</td>\n      <td class=\"unique-icon-Mno345 unique-check-Ghi789\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M9 19L3 13l1.41-1.41L9 16.17l10.59-10.59L21 5l-12 12z\"/>\n        </svg>\n      </td>\n      <td class=\"unique-icon-Mno345 unique-cross-Jkl012\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M19.41 6.58L18 5.17 12 11.17 6 5.17 4.59 6.58 10.59 12.58 4.59 18.58 6 20l6-6 6 6 1.41-1.41-6-6z\"/>\n        </svg>\n      </td>\n    </tr>\n    <tr>\n      <td>100% naturelle et certifié</td>\n      <td class=\"unique-icon-Mno345 unique-check-Ghi789\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M9 19L3 13l1.41-1.41L9 16.17l10.59-10.59L21 5l-12 12z\"/>\n        </svg>\n      </td>\n      <td class=\"unique-icon-Mno345 unique-cross-Jkl012\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M19.41 6.58L18 5.17 12 11.17 6 5.17 4.59 6.58 10.59 12.58 4.59 18.58 6 20l6-6 6 6 1.41-1.41-6-6z\"/>\n        </svg>\n      </td>\n    </tr>\n    <tr>\n      <td>Recommandé par les dermatologue</td>\n      <td class=\"unique-icon-Mno345 unique-check-Ghi789\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M9 19L3 13l1.41-1.41L9 16.17l10.59-10.59L21 5l-12 12z\"/>\n        </svg>\n      </td>\n      <td class=\"unique-icon-Mno345 unique-cross-Jkl012\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M19.41 6.58L18 5.17 12 11.17 6 5.17 4.59 6.58 10.59 12.58 4.59 18.58 6 20l6-6 6 6 1.41-1.41-6-6z\"/>\n        </svg>\n      </td>\n    </tr>\n    <tr>\n      <td>Garantie de remboursement</td>\n      <td class=\"unique-icon-Mno345 unique-check-Ghi789\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M9 19L3 13l1.41-1.41L9 16.17l10.59-10.59L21 5l-12 12z\"/>\n        </svg>\n      </td>\n      <td class=\"unique-icon-Mno345 unique-cross-Jkl012\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" width=\"18\" height=\"18\">\n          <path d=\"M19.41 6.58L18 5.17 12 11.17 6 5.17 4.59 6.58 10.59 12.58 4.59 18.58 6 20l6-6 6 6 1.41-1.41-6-6z\"/>\n        </svg>\n      </td>\n    </tr>\n  </tbody>\n</table>\n\n</body>\n</html>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1028,15 +892,11 @@
     "rich_text_P3caAF",
     "custom_liquid_3whzQd",
     "tabs_mfpxXp",
-    "rich_text_ihXQhg",
-    "timeline_UCkmxK",
     "slideshow_FpdYEP",
-    "rich_text_qfMphw",
+    "rich_text_3tnwFM",
     "multi_column_9NAH3F",
     "rich_text_3WUieU",
-    "slideshow_LjHaXb",
     "rich_text_q4qMPN",
-    "custom_liquid_mAVL9k",
     "faq_d4nGkJ",
     "1758031073639aa290"
   ]
