@@ -29,7 +29,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/2024_44.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -43,7 +42,7 @@
         "logo_YTV67T": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1_1.png",
+            "logo": "shopify://shop_images/cosmopolitan.png",
             "logo_width": 120,
             "link": ""
           }
@@ -51,7 +50,7 @@
         "logo_D3tpLy": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
+            "logo": "shopify://shop_images/ELLE_70bcf044-2107-406f-ace8-e816a9d06f07.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -59,7 +58,7 @@
         "logo_gkdj6y": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "logo": "shopify://shop_images/unnamed__1_-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
@@ -67,7 +66,7 @@
         "logo_JCYeki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo": "shopify://shop_images/Marie_Claire_3e94933b-ab5d-4bc3-a73b-baff76e3212c.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -142,7 +141,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Template_section_benefice_1.png",
         "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
@@ -177,7 +175,6 @@
         "image_WG9MB8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2024_21_f589cdbf-1f06-49e1-b242-553bb0bcf8d8-vmake-Photoroom-vmake.jpg",
             "width_mode": "custom",
             "max_width": 1000,
             "mobile_max_width": 600
@@ -243,7 +240,6 @@
         "item_XLFeQ8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_01_25_10.png",
             "column_size": "3",
             "title": "Sylvie",
             "heading_tag": "h4",
@@ -256,7 +252,6 @@
         "item_bEUccb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_00_58_23.png",
             "column_size": "3",
             "title": "Claire",
             "heading_tag": "h4",
@@ -269,7 +264,6 @@
         "item_jjrQMK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_01_22_49.png",
             "column_size": "3",
             "title": "Agathe",
             "heading_tag": "h4",
@@ -282,7 +276,6 @@
         "item_6BWDrh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_01_07_45.png",
             "column_size": "3",
             "title": "Marie",
             "heading_tag": "h4",
@@ -346,7 +339,6 @@
         "image_TWWVF3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Back_to_School_English_Syllabus_Presentation_in_Colourful_Blackboard_Chalk_Style_Site_Web_6.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -383,12 +375,6 @@
         "quantity_selector_KBLwCV": {
           "type": "quantity_selector",
           "settings": {}
-        },
-        "moon_bundle_upsell_gift_app_block_j3mDPH": {
-          "type": "shopify://apps/moon-bundle-upsell-gift/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
-          "settings": {
-            "moonbundle_selected_product": "{{section.settings.product}}"
-          }
         },
         "liquid_4m3UjU": {
           "type": "liquid",
@@ -440,7 +426,6 @@
         "description_krpri7",
         "variant_picker_eJPpkL",
         "quantity_selector_KBLwCV",
-        "moon_bundle_upsell_gift_app_block_j3mDPH",
         "liquid_4m3UjU",
         "buy_buttons_gGeQE3",
         "liquid_FwNydM",
@@ -571,13 +556,62 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_ihXQhg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xpJEQL": {
+          "type": "heading",
+          "settings": {
+            "text": "L’expertise dermatologique derrière Isoria",
+            "heading_tag": "h5",
+            "text_color": "#000000",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_xpJEQL"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#c295fa"
+      }
+    },
+    "timeline_UCkmxK": {
+      "type": "timeline",
+      "blocks": {
+        "slide_jMXpxt": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p>En tant que dermatologue depuis plus de 20 ans, j’ai vu des centaines de femmes souffrir d’épilation répétée, de rougeurs et de poils incarnés. Mon objectif était clair : développer une solution naturelle, respectueuse des peaux sensibles, qui ralentit réellement la repousse. C’est ainsi qu’est né Isoria, à base de Cyperus Rotundus, inspiré des rituels égyptiens et validé par mes patientes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_jMXpxt"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_FpdYEP": {
       "type": "slideshow",
       "blocks": {
         "image_8WQUNb": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1_Semaine.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -652,7 +686,6 @@
         "item_kAfKYF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/cyperus_rotundus.jpg",
             "column_size": "3",
             "title": "Cyperus Rotundus",
             "heading_tag": "h4",
@@ -665,7 +698,6 @@
         "item_UPwbbD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/l-huile-essentielle-de-menthe-poivree-guide-complet-des-bienfaits-et-applications-therapeutiques_1a55ec8574c0bafd.jpg",
             "column_size": "3",
             "title": "Menthe poivrée",
             "heading_tag": "h4",
@@ -678,7 +710,6 @@
         "item_DDmatA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/26059822.webp",
             "column_size": "3",
             "title": "Citron",
             "heading_tag": "h4",
@@ -691,7 +722,6 @@
         "item_bJ8yBV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/OLIVE.webp",
             "column_size": "3",
             "title": "Huile D'Olive",
             "heading_tag": "h4",
@@ -754,7 +784,6 @@
         "image_mRJxxQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ezgif.com-video-to-gif-converter_1.gif",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -788,57 +817,6 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": ""
-      }
-    },
-    "rich_text_ihXQhg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_xpJEQL": {
-          "type": "heading",
-          "settings": {
-            "text": "L’expertise dermatologique derrière Isoria",
-            "heading_tag": "h5",
-            "text_color": "#000000",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_xpJEQL"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#c295fa"
-      }
-    },
-    "timeline_UCkmxK": {
-      "type": "timeline",
-      "blocks": {
-        "slide_jMXpxt": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/GLORESIA_-_hair_serum_-_product_page_image_19.png",
-            "navigation_label": "",
-            "subheading": "",
-            "title": "",
-            "content": "<p>En tant que dermatologue depuis plus de 20 ans, j’ai vu des centaines de femmes souffrir d’épilation répétée, de rougeurs et de poils incarnés. Mon objectif était clair : développer une solution naturelle, respectueuse des peaux sensibles, qui ralentit réellement la repousse. C’est ainsi qu’est né Isoria, à base de Cyperus Rotundus, inspiré des rituels égyptiens et validé par mes patientes.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_jMXpxt"
-      ],
-      "name": "Timeline",
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "rich_text_q4qMPN": {
@@ -886,8 +864,6 @@
         "image_rHRKQr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_16_sept._2025_20_17_47.png",
-            "mobile_image": "shopify://shop_images/ChatGPT_Image_16_sept._2025_20_17_47.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -1026,19 +1002,6 @@
     },
     "1758031073639aa290": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_homepage_rYXeDN": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "nom-erum-anti-repousse-naturel",
-            "review_data": "real_data",
-            "max_width": 1200
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_homepage_rYXeDN"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
