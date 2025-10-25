@@ -736,6 +736,105 @@
         "text_color": ""
       }
     },
+    "timeline_wR6KY7": {
+      "type": "timeline",
+      "blocks": {
+        "slide_JBH4yX": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_g4jx0ug4jx0ug4jx-Photoroom.png",
+            "navigation_label": "",
+            "subheading": "",
+            "title": "Les avantages de notre masque coréen au Bio Collagène",
+            "content": "<p><strong>Hydratation intense :</strong><br/>Apporte une hydratation en profondeur, laissant la peau souple, douce et parfaitement nourrie.</p><p><strong>Fermeté et luminosité :</strong><br/>Redonne élasticité et tonicité à la peau tout en révélant un éclat naturel et lumineux.</p><p><strong>Adapté à tous les types de peau :</strong><br/>Grâce à sa formule douce et respectueuse, il convient même aux peaux les plus sensibles, sans risque d’irritation ni d’imperfection.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_JBH4yX"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multiple_images_with_text_Y4fwyd": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_Q6pR4G": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3f67f8dabb9049dca4ae61b7ca91cc6d_1_1.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Convient à tout Type de Peaux",
+            "content": "<p>Formulé avec des ingrédients non toxiques et non irritants, notre produit est scientifiquement prouvé et convient même aux peaux les plus sensibles.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_Q6pR4G"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "press_BYwkVp": {
+      "type": "press",
+      "blocks": {
+        "quote_x7nHdw": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/ELLE_70bcf044-2107-406f-ace8-e816a9d06f07.svg",
+            "logo_width": 200,
+            "author": "",
+            "content": "Sur internet, tout le monde s’accorde à dire que ces masques au collagène sont l’alternative économique au Botox. Et c’est vrai : la peau semble instantanément plus lisse, plus ferme, plus rebondie.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_jtKhEi": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/cosmopolitan.png",
+            "logo_width": 200,
+            "author": "",
+            "content": "Les femmes recherchent sans cesse des solutions capables d’offrir des résultats dignes d’un institut, mais depuis le confort de leur maison. Pas étonnant que les masques au collagène soit rapidement devenu viral.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_x7nHdw",
+        "quote_jtKhEi"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "faq_d4nGkJ": {
       "type": "faq",
       "blocks": {
@@ -847,62 +946,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "timeline_wR6KY7": {
-      "type": "timeline",
-      "blocks": {
-        "slide_JBH4yX": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_g4jx0ug4jx0ug4jx-Photoroom.png",
-            "navigation_label": "",
-            "subheading": "",
-            "title": "Les avantages de notre masque coréen au Bio Collagène",
-            "content": "<p><strong>Hydratation intense :</strong><br/>Apporte une hydratation en profondeur, laissant la peau souple, douce et parfaitement nourrie.</p><p><strong>Fermeté et luminosité :</strong><br/>Redonne élasticité et tonicité à la peau tout en révélant un éclat naturel et lumineux.</p><p><strong>Adapté à tous les types de peau :</strong><br/>Grâce à sa formule douce et respectueuse, il convient même aux peaux les plus sensibles, sans risque d’irritation ni d’imperfection.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_JBH4yX"
-      ],
-      "name": "Timeline",
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multiple_images_with_text_Y4fwyd": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_Q6pR4G": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3f67f8dabb9049dca4ae61b7ca91cc6d_1_1.jpg",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Convient à tout Type de Peaux",
-            "content": "<p>Formulé avec des ingrédients non toxiques et non irritants, notre produit est scientifiquement prouvé et convient même aux peaux les plus sensibles.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_Q6pR4G"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
     }
   },
   "order": [
@@ -925,9 +968,10 @@
     "multi_column_9NAH3F",
     "rich_text_3WUieU",
     "rich_text_q4qMPN",
-    "faq_d4nGkJ",
-    "1758031073639aa290",
     "timeline_wR6KY7",
-    "multiple_images_with_text_Y4fwyd"
+    "multiple_images_with_text_Y4fwyd",
+    "press_BYwkVp",
+    "faq_d4nGkJ",
+    "1758031073639aa290"
   ]
 }
