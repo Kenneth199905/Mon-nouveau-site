@@ -301,6 +301,7 @@
         "item_jjrQMK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_f0p72vf0p72vf0p7-Photoroom.png",
             "column_size": "3",
             "title": "Marie-Claire",
             "heading_tag": "h4",
@@ -313,6 +314,7 @@
         "item_6BWDrh": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_9jzjla9jzjla9jzj-Photoroom.png",
             "column_size": "3",
             "title": "Lucienne",
             "heading_tag": "h4",
@@ -325,6 +327,7 @@
         "item_e7JEMg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_lhgvkglhgvkglhgv-Photoroom.png",
             "column_size": "3",
             "title": "Jeanne",
             "heading_tag": "h4",
