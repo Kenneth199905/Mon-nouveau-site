@@ -587,8 +587,8 @@
         "tab_Ykgadr": {
           "type": "tab",
           "settings": {
-            "title": "90 jours Satisfait ou Remboursé",
-            "content": "<p>Essayer l'huile Isoria sans risque <strong>pendant 90 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le demander <strong>un remboursement intégral</strong>.</p>",
+            "title": "Satisfait ou Remboursé",
+            "content": "<p>Nous savons que vous allez adorer nos produits, mais nous comprenons que vous ne pouvez pas en être sûrs maintenant. C'est pourquoi nous offrons une période d'essai. Si, pour quelque raison que ce soit, vous n'aimez pas nos masques ISORIA, même après 30 jours, renvoyez-les pour un remboursement complet.<br/><br/>Remarque : cette offre ne s'applique pas aux produits autres que les masques.</p>",
             "page": ""
           }
         },
