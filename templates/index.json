@@ -391,6 +391,14 @@
             "size_chart_page": ""
           }
         },
+        "image_CV7yaz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Benefice_Site_Web_4.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_4m3UjU": {
           "type": "liquid",
           "settings": {
@@ -441,6 +449,7 @@
         "separator_fr4BAg",
         "description_krpri7",
         "variant_picker_eJPpkL",
+        "image_CV7yaz",
         "liquid_4m3UjU",
         "liquid_tGJ6Lk",
         "buy_buttons_gGeQE3",
