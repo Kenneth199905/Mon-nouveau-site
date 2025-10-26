@@ -564,48 +564,6 @@
         "heading_gradient": ""
       }
     },
-    "slideshow_7r9VhF": {
-      "type": "slideshow",
-      "blocks": {
-        "video_3G9CV3": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/1025.mov",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_3G9CV3"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
     "rich_text_3tnwFM": {
       "type": "rich-text",
       "blocks": {
@@ -701,6 +659,81 @@
         "text_color": ""
       }
     },
+    "rich_text_xg3Qpn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_w9H7Q8": {
+          "type": "heading",
+          "settings": {
+            "text": "Nous ne promettons pas des résultats. Nous les prouvons",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_FNiPP9": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Des études cliniques indépendantes, ainsi que des milliers de clientes satisfaites, confirment l’efficacité de notre <strong>Masque au Bio-Collagène</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_w9H7Q8",
+        "richtext_FNiPP9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_7r9VhF": {
+      "type": "slideshow",
+      "blocks": {
+        "video_3G9CV3": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/1025.mov",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_3G9CV3"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
     "timeline_wR6KY7": {
       "type": "timeline",
       "blocks": {
@@ -755,39 +788,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "rich_text_xg3Qpn": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_w9H7Q8": {
-          "type": "heading",
-          "settings": {
-            "text": "Nous ne promettons pas des résultats. Nous les prouvons",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_FNiPP9": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Des études cliniques indépendantes, ainsi que des milliers de clientes satisfaites, confirment l’efficacité de notre <strong>Masque au Bio-Collagène</strong>.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_w9H7Q8",
-        "richtext_FNiPP9"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "press_BYwkVp": {
@@ -902,8 +902,21 @@
         "accordion_text_color": ""
       }
     },
-    "1758031073639aa290": {
+    "1761496783536e5183": {
       "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_homepage_RkyqQr": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "skin-care-coreenne-masque-de-nuit-au-bio-collagene",
+            "review_data": "real_data",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_homepage_RkyqQr"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -936,6 +949,6 @@
     "multiple_images_with_text_Y4fwyd",
     "press_BYwkVp",
     "faq_d4nGkJ",
-    "1758031073639aa290"
+    "1761496783536e5183"
   ]
 }
