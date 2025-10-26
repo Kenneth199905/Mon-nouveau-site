@@ -162,81 +162,13 @@
         "text_color": ""
       }
     },
-    "rich_text_LiU74g": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_NRMPgP": {
-          "type": "heading",
-          "settings": {
-            "text": "Voyez par vous même la différence",
-            "heading_tag": "h3",
-            "text_color": "#c75551",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_NRMPgP"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "slideshow_7r9VhF": {
-      "type": "slideshow",
-      "blocks": {
-        "video_3G9CV3": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/1025.mov",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_3G9CV3"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
     "rich_text_nfbqUp": {
       "type": "rich-text",
       "blocks": {
         "heading_wFFydn": {
           "type": "heading",
           "settings": {
-            "text": "Voyez les Résultats par vous même",
+            "text": "Voyez par vous même la différence",
             "heading_tag": "h4",
             "text_color": "#c75551",
             "gradient": ""
@@ -254,6 +186,31 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "before_after_image_zwzMgJ": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/imgi_22_3_9ccf463b-f4f7-40b5-95bc-be0febec1637.png",
+        "after_image": "shopify://shop_images/imgi_23_4_57b32c2e-d984-4d60-9fc0-4050dbc89a76.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Aprés",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "custom_liquid_zzcMGk": {
@@ -730,18 +687,6 @@
         "text_color": ""
       }
     },
-    "rich_text_q4qMPN": {
-      "type": "rich-text",
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "timeline_wR6KY7": {
       "type": "timeline",
       "blocks": {
@@ -798,29 +743,79 @@
         "button_text_color": ""
       }
     },
-    "before_after_image_zwzMgJ": {
-      "type": "before-after-image",
-      "name": "Before/after image",
+    "slideshow_7r9VhF": {
+      "type": "slideshow",
+      "blocks": {
+        "video_3G9CV3": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/1025.mov",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_3G9CV3"
+      ],
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Nous ne promettons pas des résultats. Nous les prouvons",
-        "content": "<p>Des études cliniques indépendantes, ainsi que des milliers de clientes satisfaites, confirment l’efficacité de notre <strong>Masque au Bio-Collagène</strong>.</p>",
-        "before_image": "shopify://shop_images/imgi_22_3_9ccf463b-f4f7-40b5-95bc-be0febec1637.png",
-        "after_image": "shopify://shop_images/imgi_23_4_57b32c2e-d984-4d60-9fc0-4050dbc89a76.png",
-        "expand_image": false,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_xg3Qpn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_w9H7Q8": {
+          "type": "heading",
+          "settings": {
+            "text": "Nous ne promettons pas des résultats. Nous les prouvons",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_FNiPP9": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Des études cliniques indépendantes, ainsi que des milliers de clientes satisfaites, confirment l’efficacité de notre <strong>Masque au Bio-Collagène</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_w9H7Q8",
+        "richtext_FNiPP9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
         "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Aprés",
-        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_color": ""
       }
     },
     "press_BYwkVp": {
@@ -953,9 +948,8 @@
     "rich_text_gCReF6",
     "image_with_text_overlay_pYfapK",
     "rich_text_K9ztnm",
-    "rich_text_LiU74g",
-    "slideshow_7r9VhF",
     "rich_text_nfbqUp",
+    "before_after_image_zwzMgJ",
     "custom_liquid_zzcMGk",
     "multi_column_k4Jqqj",
     "featured_product_f3x3jh",
@@ -966,10 +960,10 @@
     "rich_text_3tnwFM",
     "multi_column_9NAH3F",
     "rich_text_3WUieU",
-    "rich_text_q4qMPN",
     "timeline_wR6KY7",
     "multiple_images_with_text_Y4fwyd",
-    "before_after_image_zwzMgJ",
+    "slideshow_7r9VhF",
+    "rich_text_xg3Qpn",
     "press_BYwkVp",
     "faq_d4nGkJ",
     "1758031073639aa290"
