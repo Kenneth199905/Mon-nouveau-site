@@ -355,6 +355,12 @@
             "text": "<p>💧 <strong>Hydratation & repulpance</strong> grâce à l’acide hyaluronique et la glycérine</p><p>✨ <strong>Renforcement de l’élasticité</strong> via le collagène et la niacinamide</p><p>🌙 <strong>Mode d’application nocturne ultra‑pratique</strong> : pose, séchage, réveil glow</p>"
           }
         },
+        "liquid_tGJ6Lk": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 8 Masques en stock ! </div>\n</div>"
+          }
+        },
         "moon_bundles_upsell_free_gifts_app_block_wGUWWj": {
           "type": "shopify://apps/moon-bundles-upsell-free-gifts/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
           "settings": {
@@ -405,12 +411,6 @@
             "liquid": "<div class=\"countdown-container\">\n  <p class=\"countdown-title\">Promotion prend fin dans</p>\n  <div class=\"countdown-timer\">\n    <div class=\"time-unit\">\n      <span id=\"days\">00</span>\n      <small>J</small>\n    </div>\n    <span class=\"sep\">:</span>\n    <div class=\"time-unit\">\n      <span id=\"hours\">00</span>\n      <small>H</small>\n    </div>\n    <span class=\"sep\">:</span>\n    <div class=\"time-unit\">\n      <span id=\"minutes\">15</span>\n      <small>M</small>\n    </div>\n    <span class=\"sep\">:</span>\n    <div class=\"time-unit\">\n      <span id=\"seconds\">00</span>\n      <small>S</small>\n    </div>\n  </div>\n</div>\n\n<style>\n.countdown-container {\n  text-align: center;\n  padding: 15px;\n  background: #f8f9fa;\n  border-radius: 8px;\n  margin: 10px 0;\n}\n\n.countdown-title {\n  font-size: 0.9rem;\n  color: #666;\n  margin: 0 0 10px 0;\n}\n\n.countdown-timer {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n}\n\n.time-unit {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  gap: 2px;\n}\n\n.time-unit span {\n  font-size: 1.4rem;\n  font-weight: 600;\n  background: #333;\n  color: white;\n  padding: 6px 10px;\n  border-radius: 4px;\n  min-width: 40px;\n  line-height: 1;\n}\n\n.time-unit small {\n  font-size: 0.7rem;\n  color: #666;\n  font-weight: 500;\n}\n\n.sep {\n  font-size: 1.2rem;\n  font-weight: 600;\n  color: #333;\n  margin: 0 2px;\n}\n\n@media (max-width: 480px) {\n  .time-unit span {\n    font-size: 1.2rem;\n    padding: 5px 8px;\n    min-width: 35px;\n  }\n  .countdown-timer { gap: 6px; }\n}\n</style>\n\n<script>\nfunction startCountdown() {\n  const endDate = new Date();\n  endDate.setMinutes(endDate.getMinutes() + 15);\n  \n  function updateCountdown() {\n    const now = new Date().getTime();\n    const distance = endDate.getTime() - now;\n    \n    if (distance < 0) {\n      document.getElementById(\"days\").textContent = \"00\";\n      document.getElementById(\"hours\").textContent = \"00\";\n      document.getElementById(\"minutes\").textContent = \"00\";\n      document.getElementById(\"seconds\").textContent = \"00\";\n      return;\n    }\n    \n    const days = Math.floor(distance / (1000 * 60 * 60 * 24));\n    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\n    const seconds = Math.floor((distance % (1000 * 60)) / 1000);\n    \n    document.getElementById(\"days\").textContent = days.toString().padStart(2, '0');\n    document.getElementById(\"hours\").textContent = hours.toString().padStart(2, '0');\n    document.getElementById(\"minutes\").textContent = minutes.toString().padStart(2, '0');\n    document.getElementById(\"seconds\").textContent = seconds.toString().padStart(2, '0');\n  }\n  \n  updateCountdown();\n  setInterval(updateCountdown, 1000);\n}\n\ndocument.addEventListener('DOMContentLoaded', startCountdown);\n</script>"
           }
         },
-        "liquid_tGJ6Lk": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 8 Masques en stock ! </div>\n</div>"
-          }
-        },
         "buy_buttons_gGeQE3": {
           "type": "buy_buttons",
           "settings": {
@@ -444,6 +444,7 @@
         "badges_xMMNym",
         "liquid_LNTrLb",
         "text_PEhGwF",
+        "liquid_tGJ6Lk",
         "moon_bundles_upsell_free_gifts_app_block_wGUWWj",
         "image_TWWVF3",
         "separator_fr4BAg",
@@ -451,7 +452,6 @@
         "variant_picker_eJPpkL",
         "image_CV7yaz",
         "liquid_4m3UjU",
-        "liquid_tGJ6Lk",
         "buy_buttons_gGeQE3",
         "image_kP4Wq8",
         "image_d8gLNY"
