@@ -376,11 +376,6 @@
     "featured_product_f3x3jh": {
       "type": "featured-product",
       "blocks": {
-        "vendor_7zFtQG": {
-          "type": "vendor",
-          "disabled": true,
-          "settings": {}
-        },
         "title_AVd3TF": {
           "type": "title",
           "settings": {
@@ -470,7 +465,6 @@
         }
       },
       "block_order": [
-        "vendor_7zFtQG",
         "title_AVd3TF",
         "badges_xMMNym",
         "liquid_LNTrLb",
