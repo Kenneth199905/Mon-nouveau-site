@@ -355,6 +355,12 @@
             "text": "<p>💧 <strong>Hydratation & repulpance</strong> grâce à l’acide hyaluronique et la glycérine</p><p>✨ <strong>Renforcement de l’élasticité</strong> via le collagène et la niacinamide</p><p>🌙 <strong>Mode d’application nocturne ultra‑pratique</strong> : pose, séchage, réveil glow</p>"
           }
         },
+        "moon_bundles_upsell_free_gifts_app_block_wGUWWj": {
+          "type": "shopify://apps/moon-bundles-upsell-free-gifts/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+          "settings": {
+            "moonbundle_selected_product": "{{section.settings.product}}"
+          }
+        },
         "image_TWWVF3": {
           "type": "image",
           "settings": {
@@ -430,6 +436,7 @@
         "badges_xMMNym",
         "liquid_LNTrLb",
         "text_PEhGwF",
+        "moon_bundles_upsell_free_gifts_app_block_wGUWWj",
         "image_TWWVF3",
         "separator_fr4BAg",
         "description_krpri7",
