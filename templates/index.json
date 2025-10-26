@@ -691,9 +691,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Menthe poivrée",
+            "title": "Niacinamide",
             "heading_tag": "h4",
-            "content": "<p>Procure une sensation de fraîcheur qui apaise la peau après l'épilation tout en réduisant les rougeurs et l'inconfort. Cela rend l'application plus agréable et aide à calmer la peau fraîchement traitée.</p>",
+            "content": "<p>Illumine le teint, réduit les taches pigmentaires et resserre les pores pour une peau plus lisse et un grain de peau visiblement unifié.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -703,21 +703,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Citron",
+            "title": "Complexe d’Acide Hyaluronique",
             "heading_tag": "h4",
-            "content": "<p>Cet agent éclaircissant aide à estomper les taches sombres et l'hyperpigmentation souvent associées à l'épilation répétée, donnant à votre peau un aspect plus uniforme et plus radieux au fil du temps.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_bJ8yBV": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Huile D'Olive",
-            "heading_tag": "h4",
-            "content": "<p>Profondément hydratante et riche en acides gras, cette huile de qualité supérieure améliore l'absorption de la formule tout en nourrissant la peau pour en améliorer l'élasticité et la douceur.</p>",
+            "content": "<p>Un trio hydratant puissant qui inonde la peau d’eau pour un teint souple, rebondi et éclatant, comme après un soin professionnel.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -727,8 +715,7 @@
       "block_order": [
         "item_kAfKYF",
         "item_UPwbbD",
-        "item_DDmatA",
-        "item_bJ8yBV"
+        "item_DDmatA"
       ],
       "name": "Multi-column",
       "settings": {
