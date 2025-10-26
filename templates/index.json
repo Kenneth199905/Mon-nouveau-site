@@ -405,12 +405,6 @@
             "max_width": 500
           }
         },
-        "liquid_tGJ6Lk": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 8 Masques en stock ! </div>\n</div>"
-          }
-        },
         "separator_fr4BAg": {
           "type": "separator",
           "settings": {}
@@ -434,10 +428,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_KBLwCV": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "liquid_4m3UjU": {
           "type": "liquid",
           "settings": {
@@ -450,6 +440,12 @@
             "image": "shopify://shop_images/Gemini_Generated_Image_7cqg017cqg017cqg-Photoroom.png",
             "alignment": "center",
             "max_width": 500
+          }
+        },
+        "liquid_tGJ6Lk": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 8 Masques en stock ! </div>\n</div>"
           }
         },
         "buy_buttons_gGeQE3": {
@@ -478,13 +474,12 @@
         "liquid_LNTrLb",
         "text_PEhGwF",
         "image_TWWVF3",
-        "liquid_tGJ6Lk",
         "separator_fr4BAg",
         "description_krpri7",
         "variant_picker_eJPpkL",
-        "quantity_selector_KBLwCV",
         "liquid_4m3UjU",
         "image_d8gLNY",
+        "liquid_tGJ6Lk",
         "buy_buttons_gGeQE3",
         "image_kP4Wq8"
       ],
