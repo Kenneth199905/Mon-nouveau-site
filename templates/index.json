@@ -236,7 +236,7 @@
         "heading_wFFydn": {
           "type": "heading",
           "settings": {
-            "text": "Nos clientes en parlent le mieux",
+            "text": "Voyez les Résultats par vous même",
             "heading_tag": "h4",
             "text_color": "#c75551",
             "gradient": ""
@@ -800,6 +800,29 @@
         "button_text_color": ""
       }
     },
+    "before_after_image_zwzMgJ": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Avant /after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "press_BYwkVp": {
       "type": "press",
       "blocks": {
@@ -978,6 +1001,7 @@
     "rich_text_q4qMPN",
     "timeline_wR6KY7",
     "multiple_images_with_text_Y4fwyd",
+    "before_after_image_zwzMgJ",
     "press_BYwkVp",
     "faq_d4nGkJ",
     "1758031073639aa290"
