@@ -877,64 +877,36 @@
         "item_RGA8mN": {
           "type": "item",
           "settings": {
-            "title": "Comment l’utiliser ?",
-            "content": "<p>Après rasage, épilation ou épilateur, appliquez 3 à 5 gouttes sur une peau propre et sèche, puis massez jusqu’à absorption.<br/>Continuez l’application <strong>tous les jours</strong>, même sans épilation.</p>"
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p><strong>Notre délai de livraison est compris entre 3 et 11 jours ouvrables.</strong></p><p><strong>Q :</strong> Pourquoi votre délai de livraison est-il si long ?</p><p><strong>R :</strong> Notre délai de livraison est plus long que celui de nos concurrents, mais nous nous engageons à protéger l'environnement. Afin de protéger la planète de la pollution, nous expédions directement depuis nos fabricants. Nous évitons ainsi les doubles expéditions et les émissions de CO2 supplémentaires. Nous sommes fiers d'être une entreprise dont la mission est aussi de sauver la planète ! *Note : les jours indiqués ci-dessus ne sont que des estimations des jours ouvrables et n'incluent pas notre délai de traitement de 2 à 5 jours.</p>"
           }
         },
         "item_EbtRWp": {
           "type": "item",
           "settings": {
-            "title": "Quand vais-je voir des résultats ?",
-            "content": "<p>Beaucoup d’utilisatrices constatent une repousse moins visible et une peau plus lisse dès 2 semaines.<br/><br/>Les meilleurs résultats apparaissent entre <strong>4 et 8 semaines </strong>avec une utilisation régulière.<br/><br/>⚠️ Les résultats peuvent varier selon chaque personne.</p>"
+            "title": "À quelle fréquence dois-je utiliser le masque Bio-Collagène ?",
+            "content": "<p>Nous recommandons d'utiliser le masque 2 à 3 fois par semaine pour des résultats optimaux. Vous pouvez toutefois adapter la fréquence d'utilisation aux besoins et à la sensibilité de votre peau.</p>"
           }
         },
         "item_PHmizp": {
           "type": "item",
           "settings": {
-            "title": "À quelle fréquence dois-je l’appliquer ?",
-            "content": "<p>Une fois par jour (matin ou soir).<br/><br/>Pour des résultats plus rapides, vous pouvez appliquer jusqu’à 2 fois par jour si votre peau le tolère bien. La régularité est la clé.</p>"
+            "title": "Puis-je utiliser ce masque sur une peau sensible ?",
+            "content": "<p>Oui, le masque Bio-Collagène est hypoallergénique et formulé avec des ingrédients non toxiques et non irritants, ce qui le rend adapté aux types de peau les plus sensibles.</p>"
           }
         },
         "item_Dgjang": {
           "type": "item",
           "settings": {
-            "title": "Où puis-je l’appliquer ?",
-            "content": "<p>Zones sûres : aisselles, maillot, jambes, bras, visage (évitez le contour des yeux).<br/><br/>⚠️ Faites toujours un test cutané préalable et évitez les zones irritées, abîmées ou coup de soleil.</p>"
+            "title": "Quels sont les principaux avantages de ce masque ?",
+            "content": "<p>Ce masque hydrate en profondeur, resserre les pores, raffermit la peau et renforce la barrière cutanée. Il contribue également à améliorer le teint et la texture de la peau tout en réduisant l'apparence des rides et ridules</p>"
           }
         },
         "item_jmK9Ei": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça élimine les poils définitivement ?",
-            "content": "<p>Non. C’est un sérum cosmétique qui aide à <strong>ralentir la repousse </strong>pour que les poils paraissent plus fins et plus clairsemés avec le temps.</p>"
-          }
-        },
-        "item_3QKqTy": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je l’utiliser avec le rasage ou la cire ?",
-            "content": "<p>Oui. Appliquez après votre méthode habituelle, puis continuez l’application quotidienne.</p>"
-          }
-        },
-        "item_8B6Dak": {
-          "type": "item",
-          "settings": {
-            "title": "Y a-t-il des effets secondaires ?",
-            "content": "<p>La formule est douce, sans parfum ajouté, et à faible risque d’irritation.<br/><br/>⚠️ Faites un test cutané préalable. Utilisez uniquement sur peau propre et intacte.<br/>En cas de rougeurs ou d’irritations, arrêtez l’utilisation.</p>"
-          }
-        },
-        "item_NmzrTT": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je le retourner si je ne suis pas satisfaite ?",
-            "content": "<p>Bien sûr. Vous bénéficiez de notre <strong>garantie 90 jours satisfait ou remboursé</strong>.<br/><br/>Si vous n’êtes pas convaincue sous 90 jours, nous vous remboursons intégralement bouteilles ouvertes acceptées (un remboursement par cliente).</p>"
-          }
-        },
-        "item_yrfFGX": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de temps pour recevoir ma commande ?",
-            "content": "<p>Nous traitons les commandes en <strong>1 à 2 jours ouvrés</strong>.<br/><br/>Une fois expédiée, la livraison prend généralement<strong> 5 à 10 jours ouvrés </strong>selon votre localisation.<br/><br/>Un numéro de suivi vous sera envoyé par e-mail.</p>"
+            "title": "Puis-je utiliser le masque en même temps que mes autres produits de soin ?",
+            "content": "<p>Oui, le masque au bio-collagène peut être intégré à votre routine de soins existante. Cependant, nous recommandons de tester les nouveaux produits pour s'assurer qu'ils sont compatibles avec votre peau.</p>"
           }
         }
       },
@@ -943,11 +915,7 @@
         "item_EbtRWp",
         "item_PHmizp",
         "item_Dgjang",
-        "item_jmK9Ei",
-        "item_3QKqTy",
-        "item_8B6Dak",
-        "item_NmzrTT",
-        "item_yrfFGX"
+        "item_jmK9Ei"
       ],
       "name": "FAQ",
       "settings": {
