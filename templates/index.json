@@ -349,10 +349,10 @@
             "liquid": "<div id=\"custom-container-rating\" class=\"custom-container-rating\">\n  <div class=\"custom-stars\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n  </div>\n  <div class=\"custom-rating-text\">\n    <span>Noté 4,8 par +1000 Clientes !</span>\n  </div>\n</div>\n<style>\n  #custom-container-rating {\n    display: flex;\n    flex-direction: row;\n    align-items: center;\n    gap: 8px;\n    width: auto;\n  }\n  .custom-stars {\n    display: flex;\n    gap: 4px;\n  }\n  .custom-star-icon {\n    width: 18px;\n    height: 18px;\n    fill: #FFD700;\n  }\n  .custom-rating-text {\n    font-size: 14px;\n    font-weight: 500;\n    color: #222;\n  }\n</style>"
           }
         },
-        "text_PEhGwF": {
-          "type": "text",
+        "liquid_LLLPDM": {
+          "type": "liquid",
           "settings": {
-            "text": "<p>💧 <strong>Hydratation & repulpance</strong> grâce à l’acide hyaluronique et la glycérine</p><p>✨ <strong>Renforcement de l’élasticité</strong> via le collagène et la niacinamide</p><p>🌙 <strong>Mode d’application nocturne ultra‑pratique</strong> : pose, séchage, réveil glow</p>"
+            "liquid": "<div style=\"\n    background: white;\n    padding: 12px 25px;\n    border-radius: 8px;\n    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);\n    text-align: center;\n    max-width: 400px;\n    border: 2px solid #f0f0f0;\n    margin: 15px auto;\n    display: inline-block;\n\">\n    <span style=\"\n        font-size: 20px;\n        font-weight: 900;\n        color: #1a1a1a;\n        text-transform: uppercase;\n        white-space: nowrap;\n    \">\n        ÉLU <span style=\"color: #667eea; font-size: 24px;\">#1</span> DES ANTI-RIDES 2025 🇫🇷\n    </span>\n</div>"
           }
         },
         "liquid_tGJ6Lk": {
@@ -443,7 +443,7 @@
         "title_AVd3TF",
         "badges_xMMNym",
         "liquid_LNTrLb",
-        "text_PEhGwF",
+        "liquid_LLLPDM",
         "liquid_tGJ6Lk",
         "moon_bundles_upsell_free_gifts_app_block_wGUWWj",
         "image_TWWVF3",
