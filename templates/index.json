@@ -369,6 +369,14 @@
             "liquid": "<div style=\"\n    background: white;\n    padding: 12px 25px;\n    border-radius: 8px;\n    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);\n    text-align: center;\n    max-width: 400px;\n    border: 2px solid #f0f0f0;\n    margin: 15px auto;\n    display: inline-block;\n\">\n    <span style=\"\n        font-size: 20px;\n        font-weight: 900;\n        color: #1a1a1a;\n        text-transform: uppercase;\n        white-space: nowrap;\n    \">\n        ÉLU <span style=\"color: #667eea; font-size: 24px;\">#1</span> DES ANTI-RIDES 2025 🇫🇷\n    </span>\n</div>"
           }
         },
+        "image_kqqJ9x": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/58_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_tGJ6Lk": {
           "type": "liquid",
           "settings": {
@@ -458,6 +466,7 @@
         "title_AVd3TF",
         "badges_xMMNym",
         "liquid_LLLPDM",
+        "image_kqqJ9x",
         "liquid_tGJ6Lk",
         "moon_bundles_upsell_free_gifts_app_block_wGUWWj",
         "image_TWWVF3",
