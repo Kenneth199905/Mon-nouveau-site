@@ -383,12 +383,6 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 Masques </div>\n</div>"
           }
         },
-        "moon_bundles_upsell_free_gifts_app_block_wGUWWj": {
-          "type": "shopify://apps/moon-bundles-upsell-free-gifts/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
-          "settings": {
-            "moonbundle_selected_product": "{{section.settings.product}}"
-          }
-        },
         "image_TWWVF3": {
           "type": "image",
           "settings": {
@@ -413,14 +407,6 @@
             "swatch_selector_style": "swatch",
             "variant_image_options": "",
             "size_chart_page": ""
-          }
-        },
-        "image_CV7yaz": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Benefice_Site_Web_5.png",
-            "alignment": "center",
-            "max_width": 500
           }
         },
         "liquid_4m3UjU": {
@@ -468,11 +454,9 @@
         "liquid_LLLPDM",
         "image_kqqJ9x",
         "liquid_tGJ6Lk",
-        "moon_bundles_upsell_free_gifts_app_block_wGUWWj",
         "image_TWWVF3",
         "description_krpri7",
         "variant_picker_eJPpkL",
-        "image_CV7yaz",
         "liquid_4m3UjU",
         "separator_etf7mX",
         "buy_buttons_gGeQE3",
