@@ -765,6 +765,49 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "press_99zC6k": {
+      "type": "press",
+      "blocks": {
+        "quote_6CiPLe": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/ELLE_70bcf044-2107-406f-ace8-e816a9d06f07.svg",
+            "logo_width": 200,
+            "author": "",
+            "content": "Sur internet, tout le monde s’accorde à dire que ces masques au collagène sont l’alternative économique au Botox. Et c’est vrai : la peau semble instantanément plus lisse, plus ferme, plus rebondie.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_MJJLHP": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/vogue_9b40c589-9044-4e5e-a05f-9ce4048c9bab.png",
+            "logo_width": 200,
+            "author": "",
+            "content": "Les femmes recherchent sans cesse des solutions capables d’offrir des résultats dignes d’un institut, mais depuis le confort de leur maison. Pas étonnant que les masques au collagène soit rapidement devenu viral.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_6CiPLe",
+        "quote_MJJLHP"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
@@ -787,6 +830,7 @@
     "rich_text_Ctajfk",
     "video_gXtVxA",
     "timeline_JdHTfM",
-    "multiple_images_with_text_T9A4Cq"
+    "multiple_images_with_text_T9A4Cq",
+    "press_99zC6k"
   ]
 }
