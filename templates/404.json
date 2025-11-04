@@ -583,6 +583,65 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "multi_column_xzDTg3": {
+      "type": "multi-column",
+      "blocks": {
+        "item_TgP4WR": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Collagène",
+            "heading_tag": "h4",
+            "content": "<p>Notre ingrédient star, 40 grammes par masque. Sa structure unique lui permet de pénétrer plus en profondeur pour repulper, raffermir et lifter visiblement la peau.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YQryMQ": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Niacinamide",
+            "heading_tag": "h4",
+            "content": "<p>Illumine le teint, réduit les taches pigmentaires et resserre les pores pour une peau plus lisse et un grain de peau visiblement unifié.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_663ALG": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Complexe d’Acide Hyaluronique",
+            "heading_tag": "h4",
+            "content": "<p>Un trio hydratant puissant qui inonde la peau d’eau pour un teint souple, rebondi et éclatant, comme après un soin professionnel.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_TgP4WR",
+        "item_YQryMQ",
+        "item_663ALG"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -599,6 +658,7 @@
     "impact_text_Rndaex",
     "custom_liquid_JUf4wM",
     "tabs_8DGnDz",
-    "rich_text_xkyBkJ"
+    "rich_text_xkyBkJ",
+    "multi_column_xzDTg3"
   ]
 }
