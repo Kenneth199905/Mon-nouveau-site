@@ -388,6 +388,22 @@
             "payment_button_text_color": ""
           }
         },
+        "image_RqTPNw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badgetrust2_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_xBFHhh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_7cqg017cqg017cqg-Photoroom_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "pickup_availability_bJ77Fk": {
           "type": "pickup_availability",
           "settings": {}
@@ -407,6 +423,8 @@
         "variant_picker_fDf4P9",
         "quantity_selector_rnNGE3",
         "buy_buttons_eLd8PP",
+        "image_RqTPNw",
+        "image_xBFHhh",
         "pickup_availability_bJ77Fk"
       ],
       "name": "Featured product",
