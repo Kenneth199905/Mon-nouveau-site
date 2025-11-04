@@ -373,10 +373,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_rnNGE3": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons_eLd8PP": {
           "type": "buy_buttons",
           "settings": {
@@ -403,10 +399,6 @@
             "alignment": "center",
             "max_width": 500
           }
-        },
-        "pickup_availability_bJ77Fk": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
@@ -421,11 +413,9 @@
         "separator_eWDD6y",
         "description_y9inpK",
         "variant_picker_fDf4P9",
-        "quantity_selector_rnNGE3",
         "buy_buttons_eLd8PP",
         "image_RqTPNw",
-        "image_xBFHhh",
-        "pickup_availability_bJ77Fk"
+        "image_xBFHhh"
       ],
       "name": "Featured product",
       "settings": {
@@ -445,6 +435,55 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "impact_text_Rndaex": {
+      "type": "impact-text",
+      "blocks": {
+        "item_ieBAke": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_ieBAke"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "#c75551",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "custom_liquid_JUf4wM": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"video-carousel-container\">\n  <button class=\"carousel-nav prev\" onclick=\"scrollCarousel(-1)\">\n    <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M15 19L8 12L15 5\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n  </button>\n  <div class=\"video-grid\" id=\"videoCarousel\">\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/dcb8989430e1472cad0625e30fa1ec7d.mp4\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/19b74d0b1ce94d82a0a2425b1fb7ca62.mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/2b7c1106d9694f9088971ccd3704a643.mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n  </div>\n  <button class=\"carousel-nav next\" onclick=\"scrollCarousel(1)\">\n    <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M9 5L16 12L9 19\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n  </button>\n</div>\n\n<style>\n  .video-carousel-container {\n    position: relative;\n    display: flex;\n    align-items: center;\n    max-width: 900px;\n    margin: auto;\n  }\n  \n  .video-grid {\n    display: flex;\n    gap: 20px;\n    width: 900px;\n    overflow: hidden;\n  }\n  \n  .video-container {\n    flex: 0 0 auto;\n  }\n  \n  .grid-video {\n    width: 280px;\n    height: 320px;\n    object-fit: cover;\n    border-radius: 8px;\n    cursor: pointer;\n  }\n  \n  .carousel-nav {\n    background-color: rgba(255, 255, 255, 0.8);\n    border: none;\n    border-radius: 50%;\n    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);\n    cursor: pointer;\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    z-index: 1;\n    padding: 10px;\n  }\n  \n  .carousel-nav.prev {\n    left: -20px;\n  }\n  \n  .carousel-nav.next {\n    right: -20px;\n  }\n\n  .carousel-nav svg {\n    width: 24px;\n    height: 24px;\n  }\n\n  @media (max-width: 768px) {\n    .video-grid {\n      gap: 10px;\n      overflow-x: scroll;\n      scroll-snap-type: x mandatory;\n      -webkit-overflow-scrolling: touch;\n    }\n    \n    .video-container {\n      scroll-snap-align: start;\n    }\n    \n    .grid-video {\n      width: 45vw;\n      height: 80vw;\n    }\n    \n    .carousel-nav {\n      display: none;\n    }\n  }\n</style>\n\n<script>\n  function togglePlayPause(videoElement) {\n    if (videoElement.paused) {\n      const videos = document.querySelectorAll('.grid-video');\n      videos.forEach(video => {\n        if (video !== videoElement) {\n          video.pause();\n          video.muted = true;\n        }\n      });\n      videoElement.muted = false;\n      videoElement.play();\n    } else {\n      videoElement.pause();\n    }\n  }\n\n  function scrollCarousel(direction) {\n    const carousel = document.getElementById('videoCarousel');\n    const scrollAmount = 300;\n    if (direction === 1) {\n      carousel.appendChild(carousel.firstElementChild);\n    } else {\n      carousel.insertBefore(carousel.lastElementChild, carousel.firstElementChild);\n    }\n  }\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -457,6 +496,8 @@
     "rich_text_NiqzF9",
     "custom_liquid_KHrffj",
     "multi_column_TUjUJx",
-    "featured_product_3aCx4X"
+    "featured_product_3aCx4X",
+    "impact_text_Rndaex",
+    "custom_liquid_JUf4wM"
   ]
 }
