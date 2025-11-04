@@ -298,6 +298,119 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "featured_product_3aCx4X": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_BgRHbp": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"custom-container-rating\" class=\"custom-container-rating\">\n  <div class=\"custom-stars\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"rgba(0,0,0,1)\" viewBox=\"0 0 256 256\" class=\"custom-star-icon\">\n      <title>star</title>\n      <path d=\"M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z\"></path>\n    </svg>\n  </div>\n  <div class=\"custom-rating-text\">\n    <span>Noté 4,8 par +1000 Clientes !</span>\n  </div>\n</div>\n<style>\n  #custom-container-rating {\n    display: flex;\n    flex-direction: row;\n    align-items: center;\n    gap: 8px;\n    width: auto;\n  }\n  .custom-stars {\n    display: flex;\n    gap: 4px;\n  }\n  .custom-star-icon {\n    width: 18px;\n    height: 18px;\n    fill: #FFD700;\n  }\n  .custom-rating-text {\n    font-size: 14px;\n    font-weight: 500;\n    color: #222;\n  }\n</style>"
+          }
+        },
+        "title_yGGktK": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "liquid_7yfAGq": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"\n    background: white;\n    padding: 12px 25px;\n    border-radius: 8px;\n    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);\n    text-align: center;\n    max-width: 400px;\n    border: 2px solid #f0f0f0;\n    margin: 15px auto;\n    display: inline-block;\n\">\n    <span style=\"\n        font-size: 20px;\n        font-weight: 900;\n        color: #1a1a1a;\n        text-transform: uppercase;\n        white-space: nowrap;\n    \">\n        ÉLU <span style=\"color: #667eea; font-size: 24px;\">#1</span> DES ANTI-RIDES 2025 🇫🇷\n    </span>\n</div>"
+          }
+        },
+        "badges_WBF7W8": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_ypNaCK": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_QcyDtU": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_eWDD6y": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_y9inpK": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_fDf4P9": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_rnNGE3": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_eLd8PP": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_bJ77Fk": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_BgRHbp",
+        "title_yGGktK",
+        "liquid_7yfAGq",
+        "badges_WBF7W8",
+        "price_ypNaCK",
+        "rating_QcyDtU",
+        "separator_eWDD6y",
+        "description_y9inpK",
+        "variant_picker_fDf4P9",
+        "quantity_selector_rnNGE3",
+        "buy_buttons_eLd8PP",
+        "pickup_availability_bJ77Fk"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "skin-care-coreenne-masque-de-nuit-au-bio-collagene",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -309,6 +422,7 @@
     "custom_liquid_NpdbDC",
     "rich_text_NiqzF9",
     "custom_liquid_KHrffj",
-    "multi_column_TUjUJx"
+    "multi_column_TUjUJx",
+    "featured_product_3aCx4X"
   ]
 }
