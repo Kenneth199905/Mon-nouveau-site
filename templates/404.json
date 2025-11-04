@@ -523,8 +523,8 @@
         "tab_w4RkAq": {
           "type": "tab",
           "settings": {
-            "title": "Tab",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Livraison & Retours",
+            "content": "<p><strong>Livraison</strong></p><p>Livraison rapide sous 8 à 10 jours ouvrés. Votre commande est expédiée dans les 48 à 72 heures. Service disponible en France, Belgique, Suisse, Luxembourg.</p><p><strong>Retour</strong></p><p>Garantie 30 jours : si vous n’êtes pas satisfait, renvoyez votre commande sans aucune justification, et obtenez votre remboursement.</p>",
             "page": ""
           }
         }
