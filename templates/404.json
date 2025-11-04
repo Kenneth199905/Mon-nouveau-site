@@ -511,12 +511,30 @@
             "content": "<p>Water Polyvinyl Alcohol Glycerin Agave Americana Stem Extract Sodium Hyaluronate 1,2-Hexanediol Caprylyl Glycol Polyglyceryl-10 Laurate Chlorella Vulgaris Extract Glucose Butylene Glycol Ethylhexylglycerin Fructooligosaccharides Fructose Xanthan Gum Cynanchum Atratum Extract Caprylic/Capric Triglyceride Hydrogenated Lecithin Althaea Rosea Flower Extract Ceramide NP Tocopherol Pancratium Maritimum Extract Collagen Extract Sodium Stearoyl Glutamate</p>",
             "page": ""
           }
+        },
+        "tab_8UzH44": {
+          "type": "tab",
+          "settings": {
+            "title": "Satisfait ou Remboursé",
+            "content": "<p>Nous savons que vous allez adorer nos produits, mais nous comprenons que vous ne pouvez pas en être sûrs maintenant. C'est pourquoi nous offrons une période d'essai.<br/><br/>Si, pour quelque raison que ce soit, vous n'aimez pas nos masques ISORIA, même après 30 jours, renvoyez-les pour un remboursement complet.<br/><br/>Remarque : cette offre ne s'applique pas aux produits autres que les masques.</p>",
+            "page": ""
+          }
+        },
+        "tab_w4RkAq": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_DK7Ba9",
         "tab_AyFLER",
-        "tab_DQdRha"
+        "tab_DQdRha",
+        "tab_8UzH44",
+        "tab_w4RkAq"
       ],
       "name": "Tabs",
       "settings": {
