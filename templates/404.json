@@ -550,6 +550,39 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "rich_text_xkyBkJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hAQ38c": {
+          "type": "heading",
+          "settings": {
+            "text": "Des résultats prouvés, des ingrédients validés par la science",
+            "heading_tag": "h3",
+            "text_color": "#c75551",
+            "gradient": ""
+          }
+        },
+        "richtext_EXVKMt": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Approuvé par les dermatologues et les scientifiques</strong>, essayez notre masque comme nos <strong>+20 000 clientes satisfaites.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hAQ38c",
+        "richtext_EXVKMt"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -565,6 +598,7 @@
     "featured_product_3aCx4X",
     "impact_text_Rndaex",
     "custom_liquid_JUf4wM",
-    "tabs_8DGnDz"
+    "tabs_8DGnDz",
+    "rich_text_xkyBkJ"
   ]
 }
