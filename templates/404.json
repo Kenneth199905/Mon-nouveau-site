@@ -442,8 +442,8 @@
         "item_ieBAke": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "title": "",
+            "subheading": "Isoria et vous",
             "content": "",
             "button_text": "",
             "button_url": "",
