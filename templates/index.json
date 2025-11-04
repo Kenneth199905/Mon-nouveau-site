@@ -749,7 +749,7 @@
         "video_3G9CV3": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/1025.mov",
+            "video": "shopify://files/videos/1025 (1).mov",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
