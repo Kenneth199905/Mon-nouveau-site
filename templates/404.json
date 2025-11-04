@@ -716,6 +716,7 @@
         "slide_rwjdyJ": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_g4jx0ug4jx0ug4jx-Photoroom_1.png",
             "navigation_label": "",
             "subheading": "",
             "title": "Les avantages de notre masque coréen au Bio Collagène",
@@ -732,6 +733,37 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "multiple_images_with_text_T9A4Cq": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_zqBbUz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3f67f8dabb9049dca4ae61b7ca91cc6d_1_1_1.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Convient à tout Type de Peaux",
+            "content": "<p>Formulé avec des ingrédients non toxiques et non irritants, notre produit est scientifiquement prouvé et convient même aux peaux les plus sensibles.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_zqBbUz"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     }
   },
@@ -754,6 +786,7 @@
     "image_with_text_overlay_mNyLXB",
     "rich_text_Ctajfk",
     "video_gXtVxA",
-    "timeline_JdHTfM"
+    "timeline_JdHTfM",
+    "multiple_images_with_text_T9A4Cq"
   ]
 }
