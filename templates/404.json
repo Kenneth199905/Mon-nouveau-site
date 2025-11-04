@@ -645,6 +645,22 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "image_with_text_overlay_mNyLXB": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/IMG-4898.gif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -662,6 +678,7 @@
     "custom_liquid_JUf4wM",
     "tabs_8DGnDz",
     "rich_text_xkyBkJ",
-    "multi_column_xzDTg3"
+    "multi_column_xzDTg3",
+    "image_with_text_overlay_mNyLXB"
   ]
 }
