@@ -181,6 +181,119 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_KHrffj": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<!-- Bloc Trustpilot -->\n<div style=\"font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;\n            text-align:center;line-height:1.35;max-width:300px;margin:0 auto;color:#000;\">\n\n  <!-- Ligne principale -->\n  <div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px;\n              font-size:24px;font-weight:600;\">\n    <span>Excellent</span>\n    <span style=\"font-weight:700;\">4.7</span>\n    <span>/ 5</span>\n\n    <!-- 5 étoiles vertes -->\n    <span style=\"color:#00B67A;font-size:22px;letter-spacing:1px;\">★★★★★</span>\n  </div>\n\n  <!-- Ligne “Basé sur +2000 avis Trustpilot” -->\n  <div style=\"margin-top:4px;font-size:14px;color:#555;display:flex;\n              flex-wrap:wrap;justify-content:center;align-items:center;gap:4px;\">\n    <span>Basé sur <strong>+1067</strong> avis</span>\n    <span style=\"color:#00B67A;font-size:15px;\">★</span>\n    <span>Trustpilot</span>\n  </div>\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_TUjUJx": {
+      "type": "multi-column",
+      "blocks": {
+        "item_HFNqa7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_y9mm52y9mm52y9mm-Photoroom_1.png",
+            "column_size": "3",
+            "title": "Sophie",
+            "heading_tag": "h4",
+            "content": "<p>Ma peau réagit facilement aux masques épais, j’avais donc des réserves sur l’effet « masque de nuit ». Surprise totale : sa texture fine et fondante ne laisse aucune sensation de collage. Au réveil, la peau semble avoir tout absorbé, avec un éclat frais et naturel. C’est le premier masque de nuit que je supporte sans aucune brillance.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pVTXYQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_o4qmgyo4qmgyo4qm-Photoroom_1.png",
+            "column_size": "3",
+            "title": "Eve",
+            "heading_tag": "h4",
+            "content": "<p>Je fais partie des peaux qui rougissent à la moindre nouveauté. Honnêtement, j’avais peur que ça brûle ou que ça tiraille. Au contraire : zéro picotement, aucune réaction. Ma peau est restée calme, souple, et même mes rougeurs autour du nez ont diminué. J’ai enfin trouvé un soin qui n’agresse pas ma peau</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pk3hJg": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GNMdm8": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BwyMhb": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Vzpq8c": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_HFNqa7",
+        "item_pVTXYQ",
+        "item_pk3hJg",
+        "item_GNMdm8",
+        "item_BwyMhb",
+        "item_Vzpq8c"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -190,6 +303,8 @@
     "rich_text_FV8RkL",
     "image_with_text_overlay_CJedeT",
     "custom_liquid_NpdbDC",
-    "rich_text_NiqzF9"
+    "rich_text_NiqzF9",
+    "custom_liquid_KHrffj",
+    "multi_column_TUjUJx"
   ]
 }
