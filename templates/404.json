@@ -709,6 +709,30 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "timeline_JdHTfM": {
+      "type": "timeline",
+      "blocks": {
+        "slide_rwjdyJ": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "",
+            "subheading": "",
+            "title": "Les avantages de notre masque coréen au Bio Collagène",
+            "content": "<p><strong>Hydratation intense :</strong><br/>Apporte une hydratation en profondeur, laissant la peau souple, douce et parfaitement nourrie.</p><p><strong>Fermeté et luminosité :</strong><br/>Redonne élasticité et tonicité à la peau tout en révélant un éclat naturel et lumineux.</p><p><strong>Adapté à tous les types de peau :</strong><br/>Grâce à sa formule douce et respectueuse, il convient même aux peaux les plus sensibles, sans risque d’irritation ni d’imperfection.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_rwjdyJ"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -729,6 +753,7 @@
     "multi_column_xzDTg3",
     "image_with_text_overlay_mNyLXB",
     "rich_text_Ctajfk",
-    "video_gXtVxA"
+    "video_gXtVxA",
+    "timeline_JdHTfM"
   ]
 }
