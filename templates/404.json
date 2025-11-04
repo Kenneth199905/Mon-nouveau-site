@@ -590,6 +590,7 @@
         "item_TgP4WR": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_129_leaf_collagen.jpg",
             "column_size": "3",
             "title": "Collagène",
             "heading_tag": "h4",
@@ -602,6 +603,7 @@
         "item_YQryMQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_130_leaf_niacinamid.jpg",
             "column_size": "3",
             "title": "Niacinamide",
             "heading_tag": "h4",
@@ -614,6 +616,7 @@
         "item_663ALG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_131_leaf_hyaluronic.jpg",
             "column_size": "3",
             "title": "Complexe d’Acide Hyaluronique",
             "heading_tag": "h4",
