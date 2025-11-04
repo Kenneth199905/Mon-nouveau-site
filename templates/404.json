@@ -484,6 +484,54 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "tabs_8DGnDz": {
+      "type": "tabs",
+      "blocks": {
+        "tab_DK7Ba9": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<p><strong>Bienfaits et avantages :</strong></p><ul><li>Ce masque de nuit enrichi en collagène améliore efficacement l'élasticité et l'hydratation de la peau pour la rendre éclatante et lumineuse.</li></ul><p></p><ul><li>Soin enveloppant au collagène qui emprisonne l'hydratation et les nutriments au cœur de la peau pendant le sommeil.</li></ul><p></p><ul><li>Aide à affiner le grain de la peau et à réparer les affections cutanées en deux semaines.<br/></li><li>Testé sous contrôle dermatologique. Convient aux peaux sensibles.<br/></li></ul>",
+            "page": ""
+          }
+        },
+        "tab_AyFLER": {
+          "type": "tab",
+          "settings": {
+            "title": "Utilisation ",
+            "content": "<p>1. Nettoyez votre visage avant application.<br/><br/>2. Appliquez une couche homogène sur peau sèche, en évitant les yeux et la bouche avec le pinceau.<br/><br/>3. Laissez poser toute la nuit : le masque forme un film enveloppant.<br/><br/>4. Retirez-le au réveil en un seul geste.</p>",
+            "page": ""
+          }
+        },
+        "tab_DQdRha": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingrédients principaux",
+            "content": "<p>Water Polyvinyl Alcohol Glycerin Agave Americana Stem Extract Sodium Hyaluronate 1,2-Hexanediol Caprylyl Glycol Polyglyceryl-10 Laurate Chlorella Vulgaris Extract Glucose Butylene Glycol Ethylhexylglycerin Fructooligosaccharides Fructose Xanthan Gum Cynanchum Atratum Extract Caprylic/Capric Triglyceride Hydrogenated Lecithin Althaea Rosea Flower Extract Ceramide NP Tocopherol Pancratium Maritimum Extract Collagen Extract Sodium Stearoyl Glutamate</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_DK7Ba9",
+        "tab_AyFLER",
+        "tab_DQdRha"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "#c75551",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -498,6 +546,7 @@
     "multi_column_TUjUJx",
     "featured_product_3aCx4X",
     "impact_text_Rndaex",
-    "custom_liquid_JUf4wM"
+    "custom_liquid_JUf4wM",
+    "tabs_8DGnDz"
   ]
 }
