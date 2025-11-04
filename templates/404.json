@@ -651,12 +651,60 @@
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/IMG-4898.gif",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_Ctajfk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xwh9ci": {
+          "type": "heading",
+          "settings": {
+            "text": "Nous ne promettons pas des résultats. Nous les prouvons",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_rN6Qg7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Des études cliniques indépendantes, ainsi que des milliers de clientes satisfaites, confirment l’efficacité de notre <strong>Masque au Bio-Collagène</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xwh9ci",
+        "richtext_rN6Qg7"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_gXtVxA": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/yes.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -679,6 +727,8 @@
     "tabs_8DGnDz",
     "rich_text_xkyBkJ",
     "multi_column_xzDTg3",
-    "image_with_text_overlay_mNyLXB"
+    "image_with_text_overlay_mNyLXB",
+    "rich_text_Ctajfk",
+    "video_gXtVxA"
   ]
 }
