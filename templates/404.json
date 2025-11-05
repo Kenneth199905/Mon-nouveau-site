@@ -143,6 +143,31 @@
         "overlay_opacity": 0
       }
     },
+    "before_after_image_hAYQBz": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Voyez par vous même la différence",
+        "content": "",
+        "before_image": "shopify://shop_images/PLUS_1.webp",
+        "after_image": "shopify://shop_images/PLUS_2.webp",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#c75551",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "custom_liquid_NpdbDC": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -878,6 +903,7 @@
     "logo_list_QJdBrw",
     "rich_text_FV8RkL",
     "image_with_text_overlay_CJedeT",
+    "before_after_image_hAYQBz",
     "custom_liquid_NpdbDC",
     "rich_text_NiqzF9",
     "custom_liquid_KHrffj",
