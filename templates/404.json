@@ -345,6 +345,12 @@
             "liquid": "<div style=\"\n    background: white;\n    padding: 12px 25px;\n    border-radius: 8px;\n    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);\n    text-align: center;\n    max-width: 400px;\n    border: 2px solid #f0f0f0;\n    margin: 15px auto;\n    display: inline-block;\n\">\n    <span style=\"\n        font-size: 20px;\n        font-weight: 900;\n        color: #1a1a1a;\n        text-transform: uppercase;\n        white-space: nowrap;\n    \">\n        ÉLU <span style=\"color: #667eea; font-size: 24px;\">#1</span> DES ANTI-RIDES 2025 🇫🇷\n    </span>\n</div>"
           }
         },
+        "text_8QgW9A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✨ 𝗥𝗲́𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗱𝗲𝘀 𝗥𝗶𝗱𝗲𝘀 𝗲𝘁 𝗥𝗶𝗱𝘂𝗹𝗲𝘀</p><p>🌸 𝗨𝗻𝗲 𝗣𝗲𝗮𝘂 𝗣𝗹𝘂𝘀 𝗙𝗲𝗿𝗺𝗲 𝗲𝘁 𝗣𝗹𝘂𝘀 𝗝𝗲𝘂𝗻𝗲</p><p>🌱 𝗟𝗶𝗳𝘁𝗲 𝗡𝗮𝘁𝘂𝗿𝗲𝗹𝗹𝗲𝗺𝗲𝗻𝘁 𝗹𝗮 𝗣𝗲𝗮𝘂 𝗥𝗲𝗹𝗮̂𝗰𝗵𝗲́𝗲</p><p>🌷 𝗜𝗻𝗴𝗿𝗲́𝗱𝗶𝗲𝗻𝘁𝘀 𝗡𝗮𝘁𝘂𝗿𝗲𝗹𝘀 𝗡𝗼𝗻 𝗜𝗿𝗿𝗶𝘁𝗮𝗻𝘁𝘀</p>"
+          }
+        },
         "image_rR9UAW": {
           "type": "image",
           "settings": {
@@ -424,6 +430,7 @@
         "liquid_BgRHbp",
         "title_yGGktK",
         "liquid_7yfAGq",
+        "text_8QgW9A",
         "image_rR9UAW",
         "liquid_dBfMWa",
         "badges_WBF7W8",
