@@ -104,7 +104,6 @@
         "image_g893QT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/badgetrust2.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -166,10 +165,36 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "17623343190d0b1e7e": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_dLRkam": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_dLRkam"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "17623343190d0b1e7e"
   ]
 }
